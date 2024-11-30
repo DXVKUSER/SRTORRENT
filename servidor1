@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-logo="" tvg-name="Fox News HD" group-title="NOTICIAS INTERNACIONAIS",Fox News HD
-http://makeatake.live:80/aleex9523/45824848x/261563
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/bPvDmSB" tvg-name="Al Jazeera" group-title="NOTICIAS INTERNACIONAIS",Al Jazeera
 http://makeatake.live:80/aleex9523/45824848x/118610
 #EXTINF:-1 tvg-id="Cnnes.br" tvg-logo="http://fivetv.xyz/logos/cnn.png" tvg-name="CNN Espanhol" group-title="NOTICIAS INTERNACIONAIS",CNN Espanhol
