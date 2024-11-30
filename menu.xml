@@ -2,92 +2,21 @@
 <channels>
 
 <channel>
-<name>[B][COLOR white]SERVIDOR 1[/COLOR][COLOR springgreen] USE F4MPROXY[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<name>[B][COLOR white]SERVIDOR 1[/COLOR][COLOR white] USE F4MPROXY[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/JwRbG6n.jpeg</thumbnail>
+<fanart>https://i.imgur.com/JwRbG6n.jpeg</fanart>
 <info>[COLOR white]SERVIDOR 1[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/DXVKUSER/SRTORRENT/refs/heads/main/servidor1</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERVIDOR 2[/COLOR][COLOR springgreen] USE INPUTSTREAM[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR white]SERVIDOR 2[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor2</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 3[/COLOR][COLOR springgreen] USE F4MPROXY[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR white]SERVIDOR 3[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor3</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 4[/COLOR][COLOR springgreen] USE F4MPROXY[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR white]SERVIDOR 4[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor4</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 5[/COLOR][COLOR springgreen] USE F4MPROXY[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR white]SERVIDOR 5[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor5</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 6[/COLOR][COLOR springgreen] USE F4MPROXY[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR white]SERVIDOR 6[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor6</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 7[/COLOR][COLOR springgreen] USE F4MPROXY[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR white]SERVIDOR 7[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor7</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 8[/COLOR][COLOR springgreen] USE F4MPROXY[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR white]SERVIDOR 8[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor8</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR 9[/COLOR][COLOR springgreen] USE F4MPROXY[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR white]SERVIDOR 9[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor9</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR white]SERVIDOR PORTUGAL[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR white]CANAIS DE PORTUGAL[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/PT</externallink>
+<name>[B][COLOR white]SERVIDOR 2[/COLOR][COLOR white] USE F4MPROXY[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/JwRbG6n.jpeg</thumbnail>
+<fanart>https://i.imgur.com/JwRbG6n.jpeg</fanart>
+<info>[COLOR white]SERVIDOR 1[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/DXVKUSER/SRTORRENT/refs/heads/main/servidor1</externallink>
 </channel>
 
 
-<channel>
-<name>[B][COLOR red]TESTES[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR red]AREA DE TESTES DE LISTAS[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/refs/heads/main/pvr.gif.peg.tv.m3u</externallink>
-</channel>
 
 </channels>
