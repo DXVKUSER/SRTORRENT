@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR 1[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/JwRbG6n.jpeg</thumbnail>
+<fanart>https://i.imgur.com/JwRbG6n.jpeg</fanart>
+<info>[COLOR blue]SERVIDOR 1[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/DXVKUSER/SERVIDORES/main/SERVIDOR%201</externallink>
+</channel>
+  
+<channel>
+<name>[B][COLOR white]SERVIDOR 2[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
+<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 2[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/DXVKUSER/SERVIDORES/main/SERVIDOR%202</externallink>
+</channel>
+  
+<channel>
+<name>[B][COLOR white]SERVIDOR 3[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/DnqZfQT.jpg</thumbnail>
+<fanart>https://i.imgur.com/DnqZfQT.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 3[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/DXVKUSER/SERVIDORES/main/SERVIDOR%203</externallink>
+</channel>
+  
+
+
+
+
+</channels>
