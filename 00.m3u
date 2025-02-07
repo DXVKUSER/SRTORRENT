@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://dnsb.io:80/xmltv.php?username=celso1007tv&password=tvmd11999771666"
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
