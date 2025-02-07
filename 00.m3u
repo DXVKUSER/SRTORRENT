@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="http://dnsb.io:80/xmltv.php?username=celso1007tv&password=tvmd11999771666"
+#EXTM3U x-tvg-url="http://cdn.lvbxtv.com/xmltv.php?username=718287958747&password=198997216397"
+
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -7,8 +9,8 @@
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB Mosaico FHD" group-title="CANAIS | BBB25",BBB Mosaico FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452920.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" tvg-name="A&E FHD" group-title="FILMES E SÉRIES",A&E FHD
+http://190.102.43.58:80/718287958747/198997216397/208146.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -17,8 +19,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452920.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB Mosaico HD" group-title="CANAIS | BBB25",BBB Mosaico HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452919.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" tvg-name="A&E HD" group-title="FILMES E SÉRIES",A&E HD
+http://190.102.43.58:80/718287958747/198997216397/208147.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -27,8 +29,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452919.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB Mosaico SD" group-title="CANAIS | BBB25",BBB Mosaico SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452918.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" tvg-name="A&E SD" group-title="FILMES E SÉRIES",A&E SD
+http://190.102.43.58:80/718287958747/198997216397/208382.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -37,8 +39,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452918.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 1 FHD" group-title="CANAIS | BBB25",BBB 1 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452917.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-logo="https://acstatic.co/logos/canais/amc.png" tvg-name="AMC FHD" group-title="FILMES E SÉRIES",AMC FHD
+http://190.102.43.58:80/718287958747/198997216397/208150.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -47,8 +49,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452917.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 1 HD" group-title="CANAIS | BBB25",BBB 1 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452916.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-logo="https://acstatic.co/logos/canais/amc.png" tvg-name="AMC HD" group-title="FILMES E SÉRIES",AMC HD
+http://190.102.43.58:80/718287958747/198997216397/208151.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -57,8 +59,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452916.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 1 SD" group-title="CANAIS | BBB25",BBB 1 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452915.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-logo="https://acstatic.co/logos/canais/amc.png" tvg-name="AMC SD" group-title="FILMES E SÉRIES",AMC SD
+http://190.102.43.58:80/718287958747/198997216397/208383.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -67,8 +69,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452915.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 2 FHD" group-title="CANAIS | BBB25",BBB 2 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452914.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-logo="http://www.fontedoscanais.com/logos/canais/axn.png" tvg-name="AXN FHD" group-title="FILMES E SÉRIES",AXN FHD
+http://190.102.43.58:80/718287958747/198997216397/101974.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -77,8 +79,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452914.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 2 HD" group-title="CANAIS | BBB25",BBB 2 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452913.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-logo="http://www.fontedoscanais.com/logos/canais/axn.png" tvg-name="AXN HD" group-title="FILMES E SÉRIES",AXN HD
+http://190.102.43.58:80/718287958747/198997216397/101975.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -87,8 +89,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452913.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 2 SD" group-title="CANAIS | BBB25",BBB 2 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452912.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-logo="http://www.fontedoscanais.com/logos/canais/axn.png" tvg-name="AXN SD" group-title="FILMES E SÉRIES",AXN SD
+http://190.102.43.58:80/718287958747/198997216397/101976.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -97,8 +99,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452912.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 3 FHD" group-title="CANAIS | BBB25",BBB 3 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452911.m3u8
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-logo="http://www.fontedoscanais.com/logos/canais/canalbrasil.png" tvg-name="CANAL BRASIL FHD" group-title="FILMES E SÉRIES",CANAL BRASIL FHD
+http://190.102.43.58:80/718287958747/198997216397/101977.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -107,8 +109,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452911.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 3 HD" group-title="CANAIS | BBB25",BBB 3 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452910.m3u8
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-logo="http://www.fontedoscanais.com/logos/canais/canalbrasil.png" tvg-name="CANAL BRASIL HD" group-title="FILMES E SÉRIES",CANAL BRASIL HD
+http://190.102.43.58:80/718287958747/198997216397/101978.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -117,8 +119,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452910.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 3 SD" group-title="CANAIS | BBB25",BBB 3 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452909.m3u8
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-logo="http://www.fontedoscanais.com/logos/canais/canalbrasil.png" tvg-name="Canal Brasil SD" group-title="FILMES E SÉRIES",Canal Brasil SD
+http://190.102.43.58:80/718287958747/198997216397/101979.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -127,8 +129,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452909.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 4 FHD" group-title="CANAIS | BBB25",BBB 4 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452908.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-logo="https://acstatic.co/logos/canais/sony.png" tvg-name="CANAL SONY FHD" group-title="FILMES E SÉRIES",CANAL SONY FHD
+http://190.102.43.58:80/718287958747/198997216397/101980.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -137,8 +139,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452908.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 4 HD" group-title="CANAIS | BBB25",BBB 4 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452907.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-logo="https://acstatic.co/logos/canais/sony.png" tvg-name="CANAL SONY HD" group-title="FILMES E SÉRIES",CANAL SONY HD
+http://190.102.43.58:80/718287958747/198997216397/101981.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -147,8 +149,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452907.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 4 SD" group-title="CANAIS | BBB25",BBB 4 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452906.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-logo="https://acstatic.co/logos/canais/sony.png" tvg-name="Canal Sony SD" group-title="FILMES E SÉRIES",Canal Sony SD
+http://190.102.43.58:80/718287958747/198997216397/101982.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -157,8 +159,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452906.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 5 FHD" group-title="CANAIS | BBB25",BBB 5 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452905.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://acstatic.co/logos/canais/cinemax.png" tvg-name="CINEMAX FHD" group-title="FILMES E SÉRIES",CINEMAX FHD
+http://190.102.43.58:80/718287958747/198997216397/727325.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -167,8 +169,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452905.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 5 HD" group-title="CANAIS | BBB25",BBB 5 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452904.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://acstatic.co/logos/canais/cinemax.png" tvg-name="CINEMAX HD" group-title="FILMES E SÉRIES",CINEMAX HD
+http://190.102.43.58:80/718287958747/198997216397/101984.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -177,8 +179,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452904.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 5 SD" group-title="CANAIS | BBB25",BBB 5 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452903.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://acstatic.co/logos/canais/cinemax.png" tvg-name="Cinemax SD" group-title="FILMES E SÉRIES",Cinemax SD
+http://190.102.43.58:80/718287958747/198997216397/101985.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -187,8 +189,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452903.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 6 FHD" group-title="CANAIS | BBB25",BBB 6 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452902.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-logo="https://acstatic.co/logos/canais/curta.png" tvg-name="CURTA!  HD" group-title="FILMES E SÉRIES",CURTA!  HD
+http://190.102.43.58:80/718287958747/198997216397/101986.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -197,8 +199,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452902.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 6 HD" group-title="CANAIS | BBB25",BBB 6 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452901.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-logo="https://acstatic.co/logos/canais/curta.png" tvg-name="CURTA! FHD" group-title="FILMES E SÉRIES",CURTA! FHD
+http://190.102.43.58:80/718287958747/198997216397/101987.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -207,8 +209,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452901.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 6 SD" group-title="CANAIS | BBB25",BBB 6 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452900.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-logo="https://acstatic.co/logos/canais/curta.png" tvg-name="Curta! SD" group-title="FILMES E SÉRIES",Curta! SD
+http://190.102.43.58:80/718287958747/198997216397/101988.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -217,8 +219,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452900.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 7 FHD" group-title="CANAIS | BBB25",BBB 7 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452899.m3u8
+#EXTINF:-1 tvg-id="film.arts.br" tvg-logo="http://www.fontedoscanais.com/logos/canais/filmarts.png" tvg-name="FILM & ARTS FHD" group-title="FILMES E SÉRIES",FILM & ARTS FHD
+http://190.102.43.58:80/718287958747/198997216397/101990.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -227,8 +229,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452899.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 7 HD" group-title="CANAIS | BBB25",BBB 7 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452898.m3u8
+#EXTINF:-1 tvg-id="film.arts.br" tvg-logo="http://www.fontedoscanais.com/logos/canais/filmarts.png" tvg-name="FILM & ARTS HD" group-title="FILMES E SÉRIES",FILM & ARTS HD
+http://190.102.43.58:80/718287958747/198997216397/101991.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -237,8 +239,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452898.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 7 SD" group-title="CANAIS | BBB25",BBB 7 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452897.m3u8
+#EXTINF:-1 tvg-id="film.arts.br" tvg-logo="http://www.fontedoscanais.com/logos/canais/filmarts.png" tvg-name="FILM & ARTS SD" group-title="FILMES E SÉRIES",FILM & ARTS SD
+http://190.102.43.58:80/718287958747/198997216397/101989.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -247,8 +249,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452897.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 8 FHD" group-title="CANAIS | BBB25",BBB 8 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452896.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-logo="http://imagecdn.sh:80/images/d914a71d43ce7f0e02e8d8a55b33bf7b.png" tvg-name="FX FHD" group-title="FILMES E SÉRIES",FX FHD
+http://190.102.43.58:80/718287958747/198997216397/101992.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -257,8 +259,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452896.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 8 HD" group-title="CANAIS | BBB25",BBB 8 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452895.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-logo="http://imagecdn.sh:80/images/d914a71d43ce7f0e02e8d8a55b33bf7b.png" tvg-name="FX HD" group-title="FILMES E SÉRIES",FX HD
+http://190.102.43.58:80/718287958747/198997216397/101994.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -267,8 +269,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452895.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 8 SD" group-title="CANAIS | BBB25",BBB 8 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452894.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-logo="http://imagecdn.sh:80/images/d914a71d43ce7f0e02e8d8a55b33bf7b.png" tvg-name="FX SD" group-title="FILMES E SÉRIES",FX SD
+http://190.102.43.58:80/718287958747/198997216397/101995.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -277,8 +279,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452894.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 9 FHD" group-title="CANAIS | BBB25",BBB 9 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452893.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://acstatic.co/logos/canais/megapix.png" tvg-name="MEGAPIX HD" group-title="FILMES E SÉRIES",MEGAPIX HD
+http://190.102.43.58:80/718287958747/198997216397/101998.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -287,8 +289,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452893.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 9 HD" group-title="CANAIS | BBB25",BBB 9 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452892.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://acstatic.co/logos/canais/megapix.png" tvg-name="MEGAPIX SD" group-title="FILMES E SÉRIES",MEGAPIX SD
+http://190.102.43.58:80/718287958747/198997216397/101996.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -297,8 +299,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452892.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 9 SD" group-title="CANAIS | BBB25",BBB 9 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452891.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedoscanais.com/logos/canais/modoviagem.png" tvg-name="MODO VIAGEM FHD" group-title="FILMES E SÉRIES",MODO VIAGEM FHD
+http://190.102.43.58:80/718287958747/198997216397/727284.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -307,8 +309,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452891.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 10 FHD" group-title="CANAIS | BBB25",BBB 10 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452890.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedoscanais.com/logos/canais/modoviagem.png" tvg-name="MODO VIAGEM SD" group-title="FILMES E SÉRIES",MODO VIAGEM SD
+http://190.102.43.58:80/718287958747/198997216397/102000.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -317,8 +319,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452890.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 10 HD" group-title="CANAIS | BBB25",BBB 10 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452889.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://acstatic.co/logos/canais/paramount.png" tvg-name="PARAMOUNT CHANNEL FHD" group-title="FILMES E SÉRIES",PARAMOUNT CHANNEL FHD
+http://190.102.43.58:80/718287958747/198997216397/102001.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -327,8 +329,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452889.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 10 SD" group-title="CANAIS | BBB25",BBB 10 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452888.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://acstatic.co/logos/canais/paramount.png" tvg-name="PARAMOUNT CHANNEL HD" group-title="FILMES E SÉRIES",PARAMOUNT CHANNEL HD
+http://190.102.43.58:80/718287958747/198997216397/102002.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -337,8 +339,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452888.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 11 FHD" group-title="CANAIS | BBB25",BBB 11 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452887.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://acstatic.co/logos/canais/paramount.png" tvg-name="PARAMOUNT CHANNEL SD" group-title="FILMES E SÉRIES",PARAMOUNT CHANNEL SD
+http://190.102.43.58:80/718287958747/198997216397/102003.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -347,8 +349,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452887.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 11 HD" group-title="CANAIS | BBB25",BBB 11 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452886.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-logo="https://acstatic.co/logos/canais/space.png" tvg-name="SPACE FHD" group-title="FILMES E SÉRIES",SPACE FHD
+http://190.102.43.58:80/718287958747/198997216397/102005.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -357,8 +359,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452886.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 11 SD" group-title="CANAIS | BBB25",BBB 11 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452885.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-logo="https://acstatic.co/logos/canais/space.png" tvg-name="SPACE HD" group-title="FILMES E SÉRIES",SPACE HD
+http://190.102.43.58:80/718287958747/198997216397/102006.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -367,8 +369,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452885.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 12 FHD" group-title="CANAIS | BBB25",BBB 12 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452884.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-logo="https://acstatic.co/logos/canais/space.png" tvg-name="Space SD" group-title="FILMES E SÉRIES",Space SD
+http://190.102.43.58:80/718287958747/198997216397/102004.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -377,8 +379,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452884.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 12 HD" group-title="CANAIS | BBB25",BBB 12 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452883.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-logo="http://imagecdn.sh:80/images/8968238c6a30fb4370ba3f7d842c0de9.jpg" tvg-name="STAR CHANNEL FHD" group-title="FILMES E SÉRIES",STAR CHANNEL FHD
+http://190.102.43.58:80/718287958747/198997216397/102013.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -387,8 +389,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452883.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2-techtudo.glbimg.com/7qzmIjk1tnHOvuf1c70bUUDw530=/0x0:984x557/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/L/L/s9L6w7R3eMXxlkoRDe2Q/imagem-do-whatsapp-de-2025-01-08-a-s-15.52.01-6541bf6d.avif" tvg-name="BBB 12 SD" group-title="CANAIS | BBB25",BBB 12 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452882.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-logo="http://imagecdn.sh:80/images/8968238c6a30fb4370ba3f7d842c0de9.jpg" tvg-name="STAR CHANNEL HD" group-title="FILMES E SÉRIES",STAR CHANNEL HD
+http://190.102.43.58:80/718287958747/198997216397/102014.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -397,8 +399,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27452882.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TRIBUNA SANTOS FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TRIBUNA SANTOS FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27405196.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-logo="http://imagecdn.sh:80/images/8968238c6a30fb4370ba3f7d842c0de9.jpg" tvg-name="Star Channel SD" group-title="FILMES E SÉRIES",Star Channel SD
+http://190.102.43.58:80/718287958747/198997216397/102015.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -407,8 +409,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27405196.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo TV Sudoeste FHD" group-title="CANAIS | GLOBO SUDESTE",Globo TV Sudoeste FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/243029.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-logo="https://acstatic.co/logos/canais/studiouniversal.png" tvg-name="STUDIO UNIVERSAL FHD" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL FHD
+http://190.102.43.58:80/718287958747/198997216397/102026.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -417,8 +419,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/243029.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo TV Sudoeste HD" group-title="CANAIS | GLOBO SUDESTE",Globo TV Sudoeste HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/243028.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-logo="https://acstatic.co/logos/canais/studiouniversal.png" tvg-name="STUDIO UNIVERSAL HD" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://190.102.43.58:80/718287958747/198997216397/102027.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -427,8 +429,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/243028.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globo.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo TV Sudoeste SD" group-title="CANAIS | GLOBO SUDESTE",Globo TV Sudoeste SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/243027.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-logo="https://acstatic.co/logos/canais/studiouniversal.png" tvg-name="Studio Universal SD" group-title="FILMES E SÉRIES",Studio Universal SD
+http://190.102.43.58:80/718287958747/198997216397/102012.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -437,8 +439,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/243027.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo TV Integracao Uberlandia SD" group-title="CANAIS | GLOBO SUDESTE",Globo TV Integracao Uberlandia SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/234916.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/728/full/TCM.png" tvg-name="TCM FHD" group-title="FILMES E SÉRIES",TCM FHD
+http://190.102.43.58:80/718287958747/198997216397/102016.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -447,8 +449,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/234916.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo TV Integracao Uberlandia HD" group-title="CANAIS | GLOBO SUDESTE",Globo TV Integracao Uberlandia HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/234915.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/728/full/TCM.png" tvg-name="TCM HD" group-title="FILMES E SÉRIES",TCM HD
+http://190.102.43.58:80/718287958747/198997216397/102017.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -457,8 +459,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/234915.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo TV Integracao Uberlandia FHD" group-title="CANAIS | GLOBO SUDESTE",Globo TV Integracao Uberlandia FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/234914.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/728/full/TCM.png" tvg-name="TCM SD" group-title="FILMES E SÉRIES",TCM SD
+http://190.102.43.58:80/718287958747/198997216397/102018.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -467,8 +469,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/234914.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtem.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="TV Tem Sao Jose do Rio Preto" group-title="CANAIS | GLOBO SUDESTE",TV Tem Sao Jose do Rio Preto
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/224817.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://acstatic.co/logos/canais/tnt.png" tvg-name="TNT FHD" group-title="FILMES E SÉRIES",TNT FHD
+http://190.102.43.58:80/718287958747/198997216397/102019.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -477,8 +479,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/224817.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globoes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="TV GAZETA NORTE ES HD" group-title="CANAIS | GLOBO SUDESTE",TV GAZETA NORTE ES HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/224394.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://acstatic.co/logos/canais/tnt.png" tvg-name="TNT HD" group-title="FILMES E SÉRIES",TNT HD
+http://190.102.43.58:80/718287958747/198997216397/102020.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -487,8 +489,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/224394.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globoes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="TV GAZETA NOROESTE ES HD" group-title="CANAIS | GLOBO SUDESTE",TV GAZETA NOROESTE ES HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/224393.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://loopstatic.net/tntnovelas.png" tvg-name="TNT NOVELAS FHD" group-title="FILMES E SÉRIES",TNT NOVELAS FHD
+http://190.102.43.58:80/718287958747/198997216397/208234.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -497,8 +499,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/224393.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo TV TEM Itapetininga SD" group-title="CANAIS | GLOBO SUDESTE",Globo TV TEM Itapetininga SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/197483.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://loopstatic.net/tntnovelas.png" tvg-name="TNT NOVELAS HD" group-title="FILMES E SÉRIES",TNT NOVELAS HD
+http://190.102.43.58:80/718287958747/198997216397/208235.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -507,8 +509,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/197483.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo TV TEM Itapetininga HD" group-title="CANAIS | GLOBO SUDESTE",Globo TV TEM Itapetininga HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/197480.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://loopstatic.net/tntnovelas.png" tvg-name="TNT NOVELAS SD" group-title="FILMES E SÉRIES",TNT NOVELAS SD
+http://190.102.43.58:80/718287958747/198997216397/208450.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -517,8 +519,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/197480.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo TV TEM Itapetininga FHD" group-title="CANAIS | GLOBO SUDESTE",Globo TV TEM Itapetininga FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/197477.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://acstatic.co/logos/canais/tnt.png" tvg-name="TNT SD" group-title="FILMES E SÉRIES",TNT SD
+http://190.102.43.58:80/718287958747/198997216397/102023.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -527,8 +529,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/197477.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="Globo Rio Legendado" group-title="CANAIS | GLOBO SUDESTE",Globo Rio Legendado
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/196603.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://acstatic.co/logos/canais/tntseries.png" tvg-name="TNT SERIES FHD" group-title="FILMES E SÉRIES",TNT SERIES FHD
+http://190.102.43.58:80/718287958747/198997216397/102021.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -537,8 +539,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/196603.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Eptvsp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO EPTV SAO CARLOS SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO EPTV SAO CARLOS SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186816.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://acstatic.co/logos/canais/tntseries.png" tvg-name="TNT SERIES HD" group-title="FILMES E SÉRIES",TNT SERIES HD
+http://190.102.43.58:80/718287958747/198997216397/102022.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -547,8 +549,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186816.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO PRESIDENTE PRUDENTE SP FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO PRESIDENTE PRUDENTE SP FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/181159.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://acstatic.co/logos/canais/tntseries.png" tvg-name="TNT Series SD" group-title="FILMES E SÉRIES",TNT Series SD
+http://190.102.43.58:80/718287958747/198997216397/102024.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -557,8 +559,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/181159.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO PRESIDENTE PRUDENTE SP HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO PRESIDENTE PRUDENTE SP HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/181158.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" tvg-name="UNIVERSAL CHANNEL HD" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL HD
+http://190.102.43.58:80/718287958747/198997216397/208205.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -567,8 +569,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/181158.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO MOGI DAS CRUZES HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO MOGI DAS CRUZES HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/181132.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" tvg-name="Universal Channel TV SD" group-title="FILMES E SÉRIES",Universal Channel TV SD
+http://190.102.43.58:80/718287958747/198997216397/102025.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -577,8 +579,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/181132.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globodf.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO MOGI DAS CRUZES FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO MOGI DAS CRUZES FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/181107.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/250px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA FHD" group-title="FILMES E SÉRIES",USA FHD
+http://190.102.43.58:80/718287958747/198997216397/208187.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -587,8 +589,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/181107.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="NSC BLUMENAU FHD" group-title="CANAIS | GLOBO SUDESTE",NSC BLUMENAU FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/145392.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/250px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA HD" group-title="FILMES E SÉRIES",USA HD
+http://190.102.43.58:80/718287958747/198997216397/208188.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -597,8 +599,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/145392.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="TVGazetaes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="TV GAZETA VITORIA ES HD - GLOBO" group-title="CANAIS | GLOBO SUDESTE",TV GAZETA VITORIA ES HD - GLOBO
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/140533.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/250px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA SD" group-title="FILMES E SÉRIES",USA SD
+http://190.102.43.58:80/718287958747/198997216397/208392.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -607,8 +609,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/140533.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="TVGazetaes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="TV GAZETA VITORIA ES FHD - GLOBO" group-title="CANAIS | GLOBO SUDESTE",TV GAZETA VITORIA ES FHD - GLOBO
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/140532.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-logo="https://acstatic.co/logos/canais/warner.png" tvg-name="WARNER  CHANNEL HD" group-title="FILMES E SÉRIES",WARNER  CHANNEL HD
+http://190.102.43.58:80/718287958747/198997216397/102028.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -617,8 +619,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/140532.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtem.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="TV TEM SOROCABA FHD - GLOBO" group-title="CANAIS | GLOBO SUDESTE",TV TEM SOROCABA FHD - GLOBO
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/140531.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-logo="https://acstatic.co/logos/canais/warner.png" tvg-name="WARNER CHANNEL FHD" group-title="FILMES E SÉRIES",WARNER CHANNEL FHD
+http://190.102.43.58:80/718287958747/198997216397/102029.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -627,8 +629,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/140531.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV VANGUARDA TAUBATE SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV VANGUARDA TAUBATE SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/123726.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-logo="https://acstatic.co/logos/canais/warner.png" tvg-name="Warner Channel SD" group-title="FILMES E SÉRIES",Warner Channel SD
+http://190.102.43.58:80/718287958747/198997216397/102030.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -637,8 +639,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/123726.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV VANGUARDA TAUBATE HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV VANGUARDA TAUBATE HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/123725.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedoscanais.com/logos/canais/modoviagem.png" tvg-name="MODO VIAGEM HD" group-title="FILMES E SÉRIES",MODO VIAGEM HD
+http://190.102.43.58:80/718287958747/198997216397/727285.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -647,8 +649,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/123725.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Eptvsp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO EPTV RIBEIRÃO PRETO HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109775.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://acstatic.co/logos/canais/universalchannel.png" tvg-name="UNIVERSAL CHANNEL FHD" group-title="FILMES E SÉRIES",UNIVERSAL CHANNEL FHD
+http://190.102.43.58:80/718287958747/198997216397/208204.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -657,8 +659,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109775.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO EPTV SUL DE MINAS FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO EPTV SUL DE MINAS FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109773.m3u8
+#EXTINF:-1 tvg-id="baby.br" tvg-logo="https://loopstatic.net/babytv.png" tvg-name="BABY TV SD" group-title="INFANTIL",BABY TV SD
+http://190.102.43.58:80/718287958747/198997216397/208423.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -667,8 +669,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109773.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO EPTV SUL DE MINAS HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO EPTV SUL DE MINAS HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109772.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" tvg-name="Canal da Web - Retro Cartoon SD" group-title="INFANTIL",Canal da Web - Retro Cartoon SD
+http://190.102.43.58:80/718287958747/198997216397/94591.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -677,8 +679,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109772.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Eptvmg.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO EPTV SUL DE MINAS SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO EPTV SUL DE MINAS SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109771.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" tvg-name="CARTOON NETWORK FHD" group-title="INFANTIL",CARTOON NETWORK FHD
+http://190.102.43.58:80/718287958747/198997216397/94576.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -687,8 +689,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109771.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO INTER TV ALTO LITORAL SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO INTER TV ALTO LITORAL SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109768.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" tvg-name="CARTOON NETWORK HD" group-title="INFANTIL",CARTOON NETWORK HD
+http://190.102.43.58:80/718287958747/198997216397/94577.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -697,8 +699,8 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109768.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Intertvmg.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO INTER TV DOS VALES FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO INTER TV DOS VALES FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109762.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" tvg-name="Cartoon Network SD" group-title="INFANTIL",Cartoon Network SD
+http://190.102.43.58:80/718287958747/198997216397/94578.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -707,693 +709,269 @@ http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109762.m3u8
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Intertvmg.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO INTER TV DOS VALES HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO INTER TV DOS VALES HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109761.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Intertvmg.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO INTER TV DOS VALES SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO INTER TV DOS VALES SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109760.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO RJ FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO RJ FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109727.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO RJ HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO RJ HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109726.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO RJ SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO RJ SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109725.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV DIÁRIO MOGI DAS CRUZES HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV DIÁRIO MOGI DAS CRUZES HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109690.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV DIÁRIO MOGI DAS CRUZES SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV DIÁRIO MOGI DAS CRUZES SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109689.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvfronteirasp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE FHD²" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE FHD²
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109688.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvfronteirasp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE HD²" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE HD²
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109687.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globoes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV GAZETA SUL FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV GAZETA SUL FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109682.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globoes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV GAZETA SUL HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV GAZETA SUL HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109681.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globoes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV GAZETA SUL SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV GAZETA SUL SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109680.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globoes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV GAZETA VITÓRIA FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV GAZETA VITÓRIA FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109679.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globoes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV GAZETA VITÓRIA HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV GAZETA VITÓRIA HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109678.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Globoes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV GAZETA VITÓRIA SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV GAZETA VITÓRIA SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109677.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV RIO SUL FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV RIO SUL FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109664.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV RIO SUL HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV RIO SUL HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109663.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtem.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109652.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtem.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD²" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD²
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109651.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtem.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109650.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TRIBUNA SANTOS HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TRIBUNA SANTOS HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109645.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV VANGUARDA S J CAMPOS FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV VANGUARDA S J CAMPOS FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109643.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV VANGUARDA S J CAMPOS HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV VANGUARDA S J CAMPOS HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109642.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV VANGUARDA S J CAMPOS SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV VANGUARDA S J CAMPOS SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/109641.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Eptvsp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO EPTV CAMPINAS FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO EPTV CAMPINAS FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108918.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Eptvsp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO EPTV CAMPINAS HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO EPTV CAMPINAS HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108917.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtem.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TEM BAURU FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TEM BAURU FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108916.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtem.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TEM BAURU HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TEM BAURU HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108915.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV VANGUARDA TAUBATE FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV VANGUARDA TAUBATE FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108908.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvtem.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TEM SOROCABA FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TEM SOROCABA FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108907.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Tvfronteirasp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV FRONTEIRA FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV FRONTEIRA FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108906.m3u8
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO INTER TV SERRA MAR FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO INTER TV SERRA MAR FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108897.m3u8
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO INTER TV SERRA MAR HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO INTER TV SERRA MAR HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108896.m3u8
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO INTER TV SERRA MAR SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO INTER TV SERRA MAR SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108895.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO SP HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108886.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO RIO SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO RIO SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108883.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TEM BAURU SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TEM BAURU SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108881.m3u8
-#EXTINF:-1 tvg-id="Tvtem.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TEM SOROCABA SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TEM SOROCABA SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108880.m3u8
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO EPTV CAMPINAS SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO EPTV CAMPINAS SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108879.m3u8
-#EXTINF:-1 tvg-id="Eptvsp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO EPTV RIBEIRAO PRETO SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108878.m3u8
-#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV TRIBUNA SANTOS SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TRIBUNA SANTOS SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108871.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO RIO HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO RIO HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108868.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO BH FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO BH FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108866.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO RIO FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO RIO FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108862.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO SP  H.265" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP  H.265
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108861.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO SP  SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP  SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108859.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV DIARIO MOGI DAS CRUZES FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108858.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO BH HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO BH HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108856.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO BH SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO BH SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108855.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO SP FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108842.m3u8
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO INTER TV ALTO LITORAL FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108826.m3u8
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO INTER TV ALTO LITORAL HD" group-title="CANAIS | GLOBO SUDESTE",GLOBO INTER TV ALTO LITORAL HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108825.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV RIO SUL SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV RIO SUL SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108821.m3u8
-#EXTINF:-1 tvg-id="Globoes.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO GAZETA VITÓRIA  SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO GAZETA VITÓRIA  SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108818.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV INTEGRAÇAO JF FHD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV INTEGRAÇAO JF FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108817.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV INTEGRACAO JF HDD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV INTEGRACAO JF HDD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108816.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-logo="https://canais.alph.lat/globo.png" tvg-name="GLOBO TV INTEGRACAO JF SD" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV INTEGRACAO JF SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108815.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://canais.alph.lat/sportv.png" tvg-name="SPORTV HD" group-title="CANAIS | SPORTV",SPORTV HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/27371147.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://canais.alph.lat/sportv3.png" tvg-name="SPORTV 3 SD" group-title="CANAIS | SPORTV",SPORTV 3 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/142335.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://canais.alph.lat/sportv.png" tvg-name="SPORTV FHD" group-title="CANAIS | SPORTV",SPORTV FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/142334.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://canais.alph.lat/sportv.png" tvg-name="SPORTV SD" group-title="CANAIS | SPORTV",SPORTV SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110277.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://canais.alph.lat/sportv2.png" tvg-name="SPORTV 2 FHD" group-title="CANAIS | SPORTV",SPORTV 2 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110276.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://canais.alph.lat/sportv2.png" tvg-name="SPORTV 2 HD" group-title="CANAIS | SPORTV",SPORTV 2 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110274.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://canais.alph.lat/sportv3.png" tvg-name="SPORTV 3 FHD" group-title="CANAIS | SPORTV",SPORTV 3 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110272.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://canais.alph.lat/sportv3.png" tvg-name="SPORTV 3 HD" group-title="CANAIS | SPORTV",SPORTV 3 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110270.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://canais.alph.lat/sportv2.png" tvg-name="SPORTV 2 SD" group-title="CANAIS | SPORTV",SPORTV 2 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108703.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" tvg-name="Cartoonito SD" group-title="CANAIS | INFANTIL",Cartoonito SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/277633.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" tvg-name="Cartoonito FHD" group-title="CANAIS | INFANTIL",Cartoonito FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/277632.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" tvg-name="Cartoonito HD" group-title="CANAIS | INFANTIL",Cartoonito HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/277631.m3u8
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="https://canais.alph.lat/disney.png" tvg-name="Disney Channel 4k" group-title="CANAIS | INFANTIL",Disney Channel 4k
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/239042.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundoplay.store/canais/gloobinho.png" tvg-name="TV GLOBINHO HD" group-title="CANAIS | INFANTIL",TV GLOBINHO HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/206978.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-logo="https://canais.alph.lat/babytv.png" tvg-name="BABYTV FHD" group-title="CANAIS | INFANTIL",BABYTV FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/204838.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-logo="https://canais.alph.lat/babytv.png" tvg-name="BABYTV HD" group-title="CANAIS | INFANTIL",BABYTV HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/204837.m3u8
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://canais.alph.lat/boomerang.png" tvg-name="BOOMERANG FHD dual audio" group-title="CANAIS | INFANTIL",BOOMERANG FHD dual audio
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186349.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://i.imgur.com/Yoyi6Fe.png" tvg-name="CARTOON NETWORK  HD" group-title="CANAIS | INFANTIL",CARTOON NETWORK  HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186348.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://i.imgur.com/Yoyi6Fe.png" tvg-name="CARTOON NETWORK SD" group-title="CANAIS | INFANTIL",CARTOON NETWORK SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186347.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="https://canais.alph.lat/discoverykids.png" tvg-name="DISCOVERY KIDS FHD" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186346.m3u8
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="https://canais.alph.lat/disney.png" tvg-name="DISNEY SD" group-title="CANAIS | INFANTIL",DISNEY SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186342.m3u8
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="https://canais.alph.lat/disney.png" tvg-name="DISNEY CHANNEL HD" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186341.m3u8
-#EXTINF:-1 tvg-id="NickJr.br" tvg-logo="https://canais.alph.lat/nickjr.png" tvg-name="NICK JR FHD" group-title="CANAIS | INFANTIL",NICK JR FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186339.m3u8
-#EXTINF:-1 tvg-id="NickJr.br" tvg-logo="https://canais.alph.lat/nickjr.png" tvg-name="NICK JR SD" group-title="CANAIS | INFANTIL",NICK JR SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186338.m3u8
-#EXTINF:-1 tvg-id="NickJr.br" tvg-logo="https://canais.alph.lat/nickjr.png" tvg-name="NICK JR HD" group-title="CANAIS | INFANTIL",NICK JR HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186337.m3u8
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-logo="https://canais.alph.lat/zoomoo.png" tvg-name="ZOOMoO HD" group-title="CANAIS | INFANTIL",ZOOMoO HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186336.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://canais.alph.lat/tooncast.png" tvg-name="TOONCAST HD" group-title="CANAIS | INFANTIL",TOONCAST HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/186335.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://canais.alph.lat/gloob.png" tvg-name="GLOOB SD" group-title="CANAIS | INFANTIL",GLOOB SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/135172.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://canais.alph.lat/gloob.png" tvg-name="GLOOB FHD" group-title="CANAIS | INFANTIL",GLOOB FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/135171.m3u8
-#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://canais.alph.lat/gloob.png" tvg-name="GLOOB HD" group-title="CANAIS | INFANTIL",GLOOB HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/135170.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://canais.alph.lat/loading.png" tvg-name="LOADING FHD" group-title="CANAIS | INFANTIL",LOADING FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/130702.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://canais.alph.lat/loading.png" tvg-name="LOADING HD" group-title="CANAIS | INFANTIL",LOADING HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/130700.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://canais.alph.lat/tooncast.png" tvg-name="TOONCAST FHD" group-title="CANAIS | INFANTIL",TOONCAST FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/127897.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-logo="https://canais.alph.lat/babytv.png" tvg-name="BABYTV SD" group-title="CANAIS | INFANTIL",BABYTV SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110159.m3u8
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://canais.alph.lat/boomerang.png" tvg-name="BOOMERANG FHD" group-title="CANAIS | INFANTIL",BOOMERANG FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110158.m3u8
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://canais.alph.lat/boomerang.png" tvg-name="BOOMERANG HD" group-title="CANAIS | INFANTIL",BOOMERANG HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110155.m3u8
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://canais.alph.lat/boomerang.png" tvg-name="BOOMERANG SD" group-title="CANAIS | INFANTIL",BOOMERANG SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110154.m3u8
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://canais.alph.lat/gloobinho.png" tvg-name="GLOOBINHO FHD" group-title="CANAIS | INFANTIL",GLOOBINHO FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110130.m3u8
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://canais.alph.lat/gloobinho.png" tvg-name="GLOOBINHO HD" group-title="CANAIS | INFANTIL",GLOOBINHO HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110128.m3u8
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://canais.alph.lat/gloobinho.png" tvg-name="GLOOBINHO SD" group-title="CANAIS | INFANTIL",GLOOBINHO SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110127.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://canais.alph.lat/nick.png" tvg-name="NICKELODEON FHD" group-title="CANAIS | INFANTIL",NICKELODEON FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110118.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://canais.alph.lat/nick.png" tvg-name="NICKELODEON HD" group-title="CANAIS | INFANTIL",NICKELODEON HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110115.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://canais.alph.lat/nick.png" tvg-name="NICKELODEON SD" group-title="CANAIS | INFANTIL",NICKELODEON SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110114.m3u8
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="https://i.imgur.com/jzXtBCP.png" tvg-name="TV RA TIM BUM FHD" group-title="CANAIS | INFANTIL",TV RA TIM BUM FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110113.m3u8
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="https://i.imgur.com/jzXtBCP.png" tvg-name="TV RA TIM BUM HD" group-title="CANAIS | INFANTIL",TV RA TIM BUM HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110111.m3u8
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="https://i.imgur.com/jzXtBCP.png" tvg-name="TV RA TIM BUM SD" group-title="CANAIS | INFANTIL",TV RA TIM BUM SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110110.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://canais.alph.lat/boomerang.png" tvg-name="BOOMBERANG SD" group-title="CANAIS | INFANTIL",BOOMBERANG SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108685.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://i.imgur.com/Yoyi6Fe.png" tvg-name="CARTOON NETWORK FHD" group-title="CANAIS | INFANTIL",CARTOON NETWORK FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108681.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="https://canais.alph.lat/discoverykids.png" tvg-name="DISCOVERY KIDS SD" group-title="CANAIS | INFANTIL",DISCOVERY KIDS SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108679.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="https://canais.alph.lat/discoverykids.png" tvg-name="DISCOVERY KIDS HD." group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD.
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108678.m3u8
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="https://canais.alph.lat/disney.png" tvg-name="DISNEY CHANNEL FHD" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108676.m3u8
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="https://canais.alph.lat/disney.png" tvg-name="DISNEY CHANNEL SD" group-title="CANAIS | INFANTIL",DISNEY CHANNEL SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108670.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://canais.alph.lat/nick.png" tvg-name="NICKELODEON" group-title="CANAIS | INFANTIL",NICKELODEON
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108657.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://canais.alph.lat/nick.png" tvg-name="NICKLODEON HD" group-title="CANAIS | INFANTIL",NICKLODEON HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108654.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://canais.alph.lat/tooncast.png" tvg-name="TOONCAST SD" group-title="CANAIS | INFANTIL",TOONCAST SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108653.m3u8
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-logo="https://canais.alph.lat/zoomoo.png" tvg-name="ZOOMOO SD" group-title="CANAIS | INFANTIL",ZOOMOO SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108647.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://canais.alph.lat/loading.png" tvg-name="LOADING SD" group-title="CANAIS | INFANTIL",LOADING SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108336.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://canais.alph.lat/space.png" tvg-name="SPACE SD" group-title="CANAIS | FILMES E SÉRIES",SPACE SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/241209.m3u8
-#EXTINF:-1 tvg-id="Sonymovies.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" tvg-name="SONY MOVIES" group-title="CANAIS | FILMES E SÉRIES",SONY MOVIES
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/237482.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-logo="https://canais.alph.lat/cinesky.png" tvg-name="CINE SKY 5" group-title="CANAIS | FILMES E SÉRIES",CINE SKY 5
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/192673.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-logo="https://canais.alph.lat/cinesky.png" tvg-name="CINE SKY 4" group-title="CANAIS | FILMES E SÉRIES",CINE SKY 4
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/192672.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-logo="https://canais.alph.lat/cinesky.png" tvg-name="CINE SKY 3" group-title="CANAIS | FILMES E SÉRIES",CINE SKY 3
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/192671.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-logo="https://canais.alph.lat/cinesky.png" tvg-name="CINE SKY 2" group-title="CANAIS | FILMES E SÉRIES",CINE SKY 2
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/192670.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-logo="https://canais.alph.lat/cinesky.png" tvg-name="CINE SKY 1" group-title="CANAIS | FILMES E SÉRIES",CINE SKY 1
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/192669.m3u8
-#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://canais.alph.lat/tbs.png" tvg-name="TBS FHD" group-title="CANAIS | FILMES E SÉRIES",TBS FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/184971.m3u8
-#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://canais.alph.lat/tcm.png" tvg-name="TCM FHD" group-title="CANAIS | FILMES E SÉRIES",TCM FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/130692.m3u8
-#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://canais.alph.lat/tcm.png" tvg-name="TCM HD" group-title="CANAIS | FILMES E SÉRIES",TCM HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/130691.m3u8
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-logo="https://cdn.reweb.io/hagah/image/4RVZeK9hKfjJPigBxFtMO9LoS9I=/300x300/top/smart/hagah/a/a1/film-arts-a1959afb.png" tvg-name="FILM & ART HD" group-title="CANAIS | FILMES E SÉRIES",FILM & ART HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/130690.m3u8
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-logo="https://cdn.reweb.io/hagah/image/4RVZeK9hKfjJPigBxFtMO9LoS9I=/300x300/top/smart/hagah/a/a1/film-arts-a1959afb.png" tvg-name="FILM & ARTS SD" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/130689.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" tvg-name="PARAMOUNT NETWORK FHD" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110015.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" tvg-name="PARAMOUNT NETWORK HD" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110012.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" tvg-name="PARAMOUNT NETWORK SD" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT NETWORK SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110011.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://canais.alph.lat/amc.png" tvg-name="AMC SD" group-title="CANAIS | FILMES E SÉRIES",AMC SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108595.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://canais.alph.lat/amc.png" tvg-name="AMC HD" group-title="CANAIS | FILMES E SÉRIES",AMC HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108594.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://canais.alph.lat/amc.png" tvg-name="AMC FHD" group-title="CANAIS | FILMES E SÉRIES",AMC FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108593.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://canais.alph.lat/axn.png" tvg-name="AXN FHD" group-title="CANAIS | FILMES E SÉRIES",AXN FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108592.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://canais.alph.lat/axn.png" tvg-name="AXN SD" group-title="CANAIS | FILMES E SÉRIES",AXN SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108591.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://canais.alph.lat/axn.png" tvg-name="AXN HD" group-title="CANAIS | FILMES E SÉRIES",AXN HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108590.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-logo="https://canais.alph.lat/sony.png" tvg-name="CANAL SONY FHD" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108589.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-logo="https://canais.alph.lat/sony.png" tvg-name="CANAL SONY SD" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108588.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-logo="https://canais.alph.lat/sony.png" tvg-name="CANAL SONY HD" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108587.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://canais.alph.lat/cinemax.png" tvg-name="CINEMAX FHD" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108585.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://canais.alph.lat/cinemax.png" tvg-name="CINEMAX SD" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108584.m3u8
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://canais.alph.lat/cinemax.png" tvg-name="CINEMAX HD" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108583.m3u8
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-logo="https://cdn.reweb.io/hagah/image/4RVZeK9hKfjJPigBxFtMO9LoS9I=/300x300/top/smart/hagah/a/a1/film-arts-a1959afb.png" tvg-name="FILM & ARTS FHD" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108582.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://canais.alph.lat/fx.png" tvg-name="FX HD" group-title="CANAIS | FILMES E SÉRIES",FX HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108575.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://canais.alph.lat/fx.png" tvg-name="FX SD" group-title="CANAIS | FILMES E SÉRIES",FX SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108574.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://canais.alph.lat/fx.png" tvg-name="FX FHD" group-title="CANAIS | FILMES E SÉRIES",FX FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108573.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://canais.alph.lat/megapix.png" tvg-name="MEGAPIX SD" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108572.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://canais.alph.lat/megapix.png" tvg-name="MEGAPIX HD" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108570.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://canais.alph.lat/megapix.png" tvg-name="MEGAPIX FHD" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108569.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://canais.alph.lat/paramount.png" tvg-name="PARAMOUNT FHD" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108568.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://canais.alph.lat/paramount.png" tvg-name="PARAMOUNT SD" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108567.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://canais.alph.lat/paramount.png" tvg-name="PARAMOUNT HD" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108566.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://canais.alph.lat/space.png" tvg-name="SPACE FHD" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108565.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://canais.alph.lat/space.png" tvg-name="SPACE HD" group-title="CANAIS | FILMES E SÉRIES",SPACE HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108563.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-logo="https://canais.alph.lat/starchannel.png" tvg-name="STAR CHANNEL HD" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108561.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-logo="https://canais.alph.lat/starchannel.png" tvg-name="STAR CHANNEL SD" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108560.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-logo="https://canais.alph.lat/starchannel.png" tvg-name="STAR CHANNEL FHD" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108558.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://canais.alph.lat/studiouniversal.png" tvg-name="STUDIO UNIVERSAL FHD" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108557.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://canais.alph.lat/studiouniversal.png" tvg-name="STUDIO UNIVERSAL SD" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108556.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://canais.alph.lat/studiouniversal.png" tvg-name="STUDIO UNIVERSAL HD" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108555.m3u8
-#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="https://canais.alph.lat/syfy.png" tvg-name="SYFY HD" group-title="CANAIS | FILMES E SÉRIES",SYFY HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108554.m3u8
-#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="https://canais.alph.lat/syfy.png" tvg-name="SYFY SD" group-title="CANAIS | FILMES E SÉRIES",SYFY SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108553.m3u8
-#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="https://canais.alph.lat/syfy.png" tvg-name="SYFY FHD" group-title="CANAIS | FILMES E SÉRIES",SYFY FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108552.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://canais.alph.lat/tnt.png" tvg-name="TNT FHD" group-title="CANAIS | FILMES E SÉRIES",TNT FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108551.m3u8
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://canais.alph.lat/tntseries.png" tvg-name="TNT SERIES SD" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108550.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://canais.alph.lat/tnt.png" tvg-name="TNT SD" group-title="CANAIS | FILMES E SÉRIES",TNT SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108548.m3u8
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://canais.alph.lat/tntseries.png" tvg-name="TNT SERIES HD" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108547.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://canais.alph.lat/tnt.png" tvg-name="TNT HD" group-title="CANAIS | FILMES E SÉRIES",TNT HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108546.m3u8
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://canais.alph.lat/tntseries.png" tvg-name="TNT SERIES FHD" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108545.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTELfRPZ2tYKDonP6WzDGQsjq5dKYXlOCaIaPJ_6w=s900-c-k-c0x00ffffff-no-rj" tvg-name="UNIVERSAL TV SD" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108544.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTELfRPZ2tYKDonP6WzDGQsjq5dKYXlOCaIaPJ_6w=s900-c-k-c0x00ffffff-no-rj" tvg-name="UNIVERSAL TV HD" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108543.m3u8
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTELfRPZ2tYKDonP6WzDGQsjq5dKYXlOCaIaPJ_6w=s900-c-k-c0x00ffffff-no-rj" tvg-name="UNIVERSAL TV FHD" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108542.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://canais.alph.lat/warner.png" tvg-name="WARNER CHANNEL FHD" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108541.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://canais.alph.lat/warner.png" tvg-name="WARNER CHANNEL HD" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108540.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-logo="https://canais.alph.lat/canalbrasil.png" tvg-name="CANAL BRASIL HD" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108354.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-logo="https://canais.alph.lat/canalbrasil.png" tvg-name="CANAL BRASIL FHD" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108353.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-logo="https://canais.alph.lat/canalbrasil.png" tvg-name="CANAL BRASIL SD" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108352.m3u8
-#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://canais.alph.lat/tbs.png" tvg-name="TBS SD" group-title="CANAIS | FILMES E SÉRIES",TBS SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108331.m3u8
-#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://canais.alph.lat/tbs.png" tvg-name="TBS HD" group-title="CANAIS | FILMES E SÉRIES",TBS HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108330.m3u8
-#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://canais.alph.lat/tcm.png" tvg-name="TCM SD" group-title="CANAIS | FILMES E SÉRIES",TCM SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108283.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="Premiere 8 HD" group-title="CANAIS | PREMIERE",Premiere 8 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/234112.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="Premiere 8 H265" group-title="CANAIS | PREMIERE",Premiere 8 H265
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/234111.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="Premiere 8 FHD" group-title="CANAIS | PREMIERE",Premiere 8 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/234110.m3u8
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 8 SD" group-title="CANAIS | PREMIERE",PREMIERE 8 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/142337.m3u8
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 2 FHD" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110362.m3u8
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 2 HD" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110360.m3u8
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 2 SD" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110359.m3u8
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 3 FHD" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110358.m3u8
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 3 HD" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110356.m3u8
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 3 SD" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110355.m3u8
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 4 FHD" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110354.m3u8
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 4 HD" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110352.m3u8
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 5 FHD" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110350.m3u8
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 5 HD" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110348.m3u8
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 5 SD" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110347.m3u8
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 6 FHD" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110346.m3u8
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 6 HD" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110344.m3u8
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 6 SD" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110343.m3u8
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 7 FHD" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110342.m3u8
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 7 HD" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110340.m3u8
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 7 SD" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110339.m3u8
-#EXTINF:-1 tvg-id="Premiere9.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 9 FHD" group-title="CANAIS | PREMIERE",PREMIERE 9 FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110335.m3u8
-#EXTINF:-1 tvg-id="Premiere9.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 9 HD" group-title="CANAIS | PREMIERE",PREMIERE 9 HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110333.m3u8
-#EXTINF:-1 tvg-id="Premiere9.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 9 SD" group-title="CANAIS | PREMIERE",PREMIERE 9 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110332.m3u8
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE 4 SD" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108757.m3u8
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE CLUBES SD" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108750.m3u8
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE CLUBES HD" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108749.m3u8
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="https://canais.alph.lat/premiere.png" tvg-name="PREMIERE CLUBE FHD" group-title="CANAIS | PREMIERE",PREMIERE CLUBE FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108742.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://canais.alph.lat/telecinepremium.png" tvg-name="TELECINE PREMIUM FHD" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110091.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://canais.alph.lat/telecinepremium.png" tvg-name="TELECINE PREMIUM HD" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110088.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://canais.alph.lat/telecinetouch.png" tvg-name="TELECINE TOUCH HD" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/110085.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://canais.alph.lat/telecinetouch.png" tvg-name="TELECINE TOUCH FHD" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108645.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://canais.alph.lat/telecinepipoca.png" tvg-name="TELECINE PIPOCA FHD" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108643.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" tvg-name="TELECINE FUN FHD" group-title="CANAIS | TELECINE",TELECINE FUN FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108642.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://canais.alph.lat/telecineaction.png" tvg-name="TELECINE ACTION FHD" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108641.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://canais.alph.lat/telecinecult.png" tvg-name="TELECINE CULT FHD" group-title="CANAIS | TELECINE",TELECINE CULT FHD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108640.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://canais.alph.lat/telecineaction.png" tvg-name="TELECINE ACTION SD" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108639.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://canais.alph.lat/telecinecult.png" tvg-name="TELECINE CULT SD" group-title="CANAIS | TELECINE",TELECINE CULT SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108638.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" tvg-name="TELECINE FUN SD" group-title="CANAIS | TELECINE",TELECINE FUN SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108637.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://canais.alph.lat/telecinetouch.png" tvg-name="TELECINE TOUCH SD" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108636.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://canais.alph.lat/telecinepremium.png" tvg-name="TELECINE PREMIUM SD" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108635.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://canais.alph.lat/telecinepipoca.png" tvg-name="TELECINE PIPOCA SD" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108634.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://canais.alph.lat/telecineaction.png" tvg-name="TELECINE ACTION HD" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108633.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" tvg-name="TELECINE FUN HD" group-title="CANAIS | TELECINE",TELECINE FUN HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108632.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://canais.alph.lat/telecinepipoca.png" tvg-name="TELECINE PIPOCA HD" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108631.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://canais.alph.lat/telecinecult.png" tvg-name="TELECINE CULT HD" group-title="CANAIS | TELECINE",TELECINE CULT HD
-http://dnsb.io:80/live/celso1007tv/tvmd11999771666/108628.m3u8
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/648/full/Cartoonito_Ok.png" tvg-name="Cartoonito FHD" group-title="INFANTIL",Cartoonito FHD
+http://190.102.43.58:80/718287958747/198997216397/94579.m3u8
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/648/full/Cartoonito_Ok.png" tvg-name="Cartoonito HD" group-title="INFANTIL",Cartoonito HD
+http://190.102.43.58:80/718287958747/198997216397/94580.m3u8
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/648/full/Cartoonito_Ok.png" tvg-name="Cartoonito SD" group-title="INFANTIL",Cartoonito SD
+http://190.102.43.58:80/718287958747/198997216397/94581.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" tvg-name="DISCOVERY KIDS FHD" group-title="INFANTIL",DISCOVERY KIDS FHD
+http://190.102.43.58:80/718287958747/198997216397/94566.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" tvg-name="DISCOVERY KIDS HD" group-title="INFANTIL",DISCOVERY KIDS HD
+http://190.102.43.58:80/718287958747/198997216397/94567.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-logo="https://acstatic.co/logos/canais/discoverykids.png" tvg-name="Discovery Kids SD" group-title="INFANTIL",Discovery Kids SD
+http://190.102.43.58:80/718287958747/198997216397/94568.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-logo="https://acstatic.co/logos/canais/disney.png" tvg-name="DISNEY CHANNEL FHD" group-title="INFANTIL",DISNEY CHANNEL FHD
+http://190.102.43.58:80/718287958747/198997216397/94582.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-logo="https://acstatic.co/logos/canais/disney.png" tvg-name="DISNEY CHANNEL HD" group-title="INFANTIL",DISNEY CHANNEL HD
+http://190.102.43.58:80/718287958747/198997216397/94583.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-logo="https://acstatic.co/logos/canais/disney.png" tvg-name="Disney Channel SD" group-title="INFANTIL",Disney Channel SD
+http://190.102.43.58:80/718287958747/198997216397/94584.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://acstatic.co/logos/canais/gloob.png" tvg-name="GLOOB FHD" group-title="INFANTIL",GLOOB FHD
+http://190.102.43.58:80/718287958747/198997216397/94586.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://acstatic.co/logos/canais/gloob.png" tvg-name="GLOOB HD" group-title="INFANTIL",GLOOB HD
+http://190.102.43.58:80/718287958747/198997216397/94587.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://acstatic.co/logos/canais/gloob.png" tvg-name="Gloob SD" group-title="INFANTIL",Gloob SD
+http://190.102.43.58:80/718287958747/198997216397/94585.m3u8
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/664/full/Gloobinho_Ok.png" tvg-name="GLOOBINHO FHD" group-title="INFANTIL",GLOOBINHO FHD
+http://190.102.43.58:80/718287958747/198997216397/94588.m3u8
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/664/full/Gloobinho_Ok.png" tvg-name="GLOOBINHO HD" group-title="INFANTIL",GLOOBINHO HD
+http://190.102.43.58:80/718287958747/198997216397/94589.m3u8
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/664/full/Gloobinho_Ok.png" tvg-name="Gloobinho SD" group-title="INFANTIL",Gloobinho SD
+http://190.102.43.58:80/718287958747/198997216397/94590.m3u8
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-logo="https://acstatic.co/logos/canais/nick.png" tvg-name="NICK JR FHD" group-title="INFANTIL",NICK JR FHD
+http://190.102.43.58:80/718287958747/198997216397/94569.m3u8
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-logo="https://acstatic.co/logos/canais/nick.png" tvg-name="NICK JR HD" group-title="INFANTIL",NICK JR HD
+http://190.102.43.58:80/718287958747/198997216397/94570.m3u8
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-logo="https://acstatic.co/logos/canais/nick.png" tvg-name="Nick Jr SD" group-title="INFANTIL",Nick Jr SD
+http://190.102.43.58:80/718287958747/198997216397/94571.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-logo="https://acstatic.co/logos/canais/nick.png" tvg-name="NICKELODEON FHD" group-title="INFANTIL",NICKELODEON FHD
+http://190.102.43.58:80/718287958747/198997216397/94572.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-logo="https://acstatic.co/logos/canais/nick.png" tvg-name="NICKELODEON HD" group-title="INFANTIL",NICKELODEON HD
+http://190.102.43.58:80/718287958747/198997216397/94573.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-logo="https://acstatic.co/logos/canais/nick.png" tvg-name="Nickelodeon SD" group-title="INFANTIL",Nickelodeon SD
+http://190.102.43.58:80/718287958747/198997216397/94574.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/681/full/Tooncast_Ok.png" tvg-name="TOONCAST FHD" group-title="INFANTIL",TOONCAST FHD
+http://190.102.43.58:80/718287958747/198997216397/94592.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/681/full/Tooncast_Ok.png" tvg-name="TOONCAST HD" group-title="INFANTIL",TOONCAST HD
+http://190.102.43.58:80/718287958747/198997216397/94593.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/681/full/Tooncast_Ok.png" tvg-name="Tooncast SD" group-title="INFANTIL",Tooncast SD
+http://190.102.43.58:80/718287958747/198997216397/94594.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://acstatic.co/logos/canais/ratimbum.png" tvg-name="TV RA TIM BUM FHD" group-title="INFANTIL",TV RA TIM BUM FHD
+http://190.102.43.58:80/718287958747/198997216397/727298.m3u8
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-logo="https://acstatic.co/logos/canais/ratimbum.png" tvg-name="TV RA TIM BUM SD" group-title="INFANTIL",TV RA TIM BUM SD
+http://190.102.43.58:80/718287958747/198997216397/208455.m3u8
+#EXTINF:-1 tvg-id="zoomoo.kids.br" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" tvg-name="ZOOMO FHD" group-title="INFANTIL",ZOOMO FHD
+http://190.102.43.58:80/718287958747/198997216397/94596.m3u8
+#EXTINF:-1 tvg-id="zoomoo.kids.br" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" tvg-name="ZOOMO HD" group-title="INFANTIL",ZOOMO HD
+http://190.102.43.58:80/718287958747/198997216397/94597.m3u8
+#EXTINF:-1 tvg-id="zoomoo.kids.br" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" tvg-name="ZOOMO SD" group-title="INFANTIL",ZOOMO SD
+http://190.102.43.58:80/718287958747/198997216397/94595.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://acstatic.co/logos/canais/ratimbum.png" tvg-name="TV RA TIM BUM HD" group-title="INFANTIL",TV RA TIM BUM HD
+http://190.102.43.58:80/718287958747/198997216397/727299.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" tvg-name="HBO 2 FHD" group-title="HBO",HBO 2 FHD
+http://190.102.43.58:80/718287958747/198997216397/208224.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" tvg-name="HBO 2 HD" group-title="HBO",HBO 2 HD
+http://190.102.43.58:80/718287958747/198997216397/92425.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-logo="https://acstatic.co/logos/canais/hbo2.png" tvg-name="HBO 2 SD" group-title="HBO",HBO 2 SD
+http://190.102.43.58:80/718287958747/198997216397/92423.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-logo="https://acstatic.co/logos/canais/hbofamily.png" tvg-name="HBO FAMILY FHD" group-title="HBO",HBO FAMILY FHD
+http://190.102.43.58:80/718287958747/198997216397/208226.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-logo="https://acstatic.co/logos/canais/hbofamily.png" tvg-name="HBO FAMILY HD" group-title="HBO",HBO FAMILY HD
+http://190.102.43.58:80/718287958747/198997216397/92427.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-logo="https://acstatic.co/logos/canais/hbofamily.png" tvg-name="HBO Family SD" group-title="HBO",HBO Family SD
+http://190.102.43.58:80/718287958747/198997216397/92416.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-logo="https://acstatic.co/logos/canais/hbo.png" tvg-name="HBO FHD" group-title="HBO",HBO FHD
+http://190.102.43.58:80/718287958747/198997216397/208223.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/707/full/HBO_Mundi_Ok.png" tvg-name="HBO MUNDI FHD" group-title="HBO",HBO MUNDI FHD
+http://190.102.43.58:80/718287958747/198997216397/92430.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/707/full/HBO_Mundi_Ok.png" tvg-name="HBO MUNDI HD" group-title="HBO",HBO MUNDI HD
+http://190.102.43.58:80/718287958747/198997216397/92431.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/707/full/HBO_Mundi_Ok.png" tvg-name="HBO Mundi SD" group-title="HBO",HBO Mundi SD
+http://190.102.43.58:80/718287958747/198997216397/92417.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-logo="https://acstatic.co/logos/canais/hboplus.png" tvg-name="HBO PLUS  FHD" group-title="HBO",HBO PLUS  FHD
+http://190.102.43.58:80/718287958747/198997216397/208225.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/711/full/HBO_Pop_Ok.png" tvg-name="HBO POP FHD" group-title="HBO",HBO POP FHD
+http://190.102.43.58:80/718287958747/198997216397/208222.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/711/full/HBO_Pop_Ok.png" tvg-name="HBO POP HD" group-title="HBO",HBO POP HD
+http://190.102.43.58:80/718287958747/198997216397/92433.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/711/full/HBO_Pop_Ok.png" tvg-name="HBO Pop SD" group-title="HBO",HBO Pop SD
+http://190.102.43.58:80/718287958747/198997216397/92418.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-logo="https://acstatic.co/logos/canais/hbo.png" tvg-name="HBO SD" group-title="HBO",HBO SD
+http://190.102.43.58:80/718287958747/198997216397/92422.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-logo="https://acstatic.co/logos/canais/hbosignature.png" tvg-name="HBO SIGNATURE FHD" group-title="HBO",HBO SIGNATURE FHD
+http://190.102.43.58:80/718287958747/198997216397/92434.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-logo="https://acstatic.co/logos/canais/hbosignature.png" tvg-name="HBO Signature HD" group-title="HBO",HBO Signature HD
+http://190.102.43.58:80/718287958747/198997216397/92414.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-logo="https://acstatic.co/logos/canais/hbosignature.png" tvg-name="HBO Signature SD" group-title="HBO",HBO Signature SD
+http://190.102.43.58:80/718287958747/198997216397/92419.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/716/full/HBO_Xtreme.png" tvg-name="HBO XTREME FHD" group-title="HBO",HBO XTREME FHD
+http://190.102.43.58:80/718287958747/198997216397/92435.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/716/full/HBO_Xtreme.png" tvg-name="HBO XTREME HD" group-title="HBO",HBO XTREME HD
+http://190.102.43.58:80/718287958747/198997216397/92436.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-logo="https://uploaddeimagens.com.br/images/004/630/716/full/HBO_Xtreme.png" tvg-name="HBO Xtreme SD" group-title="HBO",HBO Xtreme SD
+http://190.102.43.58:80/718287958747/198997216397/92420.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-logo="https://acstatic.co/logos/canais/hboplus.png" tvg-name="HBO+ SD" group-title="HBO",HBO+ SD
+http://190.102.43.58:80/718287958747/198997216397/92421.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-logo="https://acstatic.co/logos/canais/hboplus.png" tvg-name="HBO+HD" group-title="HBO",HBO+HD
+http://190.102.43.58:80/718287958747/198997216397/92438.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-logo="https://acstatic.co/logos/canais/hbo.png" tvg-name="HBO1  HD" group-title="HBO",HBO1  HD
+http://190.102.43.58:80/718287958747/198997216397/92429.m3u8
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 1 CLUBES FHD" group-title="PREMIERE",PREMIERE 1 CLUBES FHD
+http://190.102.43.58:80/718287958747/198997216397/93520.m3u8
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 1 CLUBES HD" group-title="PREMIERE",PREMIERE 1 CLUBES HD
+http://190.102.43.58:80/718287958747/198997216397/93521.m3u8
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="Premiere 1 Clubes SD" group-title="PREMIERE",Premiere 1 Clubes SD
+http://190.102.43.58:80/718287958747/198997216397/208390.m3u8
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 2  FHD" group-title="PREMIERE",PREMIERE 2  FHD
+http://190.102.43.58:80/718287958747/198997216397/93522.m3u8
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 2 HD" group-title="PREMIERE",PREMIERE 2 HD
+http://190.102.43.58:80/718287958747/198997216397/93523.m3u8
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="Premiere 2 SD" group-title="PREMIERE",Premiere 2 SD
+http://190.102.43.58:80/718287958747/198997216397/93538.m3u8
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 3 FHD" group-title="PREMIERE",PREMIERE 3 FHD
+http://190.102.43.58:80/718287958747/198997216397/93524.m3u8
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 3 HD" group-title="PREMIERE",PREMIERE 3 HD
+http://190.102.43.58:80/718287958747/198997216397/93525.m3u8
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="Premiere 3 SD" group-title="PREMIERE",Premiere 3 SD
+http://190.102.43.58:80/718287958747/198997216397/93539.m3u8
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 4 FHD" group-title="PREMIERE",PREMIERE 4 FHD
+http://190.102.43.58:80/718287958747/198997216397/93526.m3u8
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 4 HD" group-title="PREMIERE",PREMIERE 4 HD
+http://190.102.43.58:80/718287958747/198997216397/93527.m3u8
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="Premiere 4 SD" group-title="PREMIERE",Premiere 4 SD
+http://190.102.43.58:80/718287958747/198997216397/93540.m3u8
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 5 FHD" group-title="PREMIERE",PREMIERE 5 FHD
+http://190.102.43.58:80/718287958747/198997216397/93528.m3u8
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 5 HD" group-title="PREMIERE",PREMIERE 5 HD
+http://190.102.43.58:80/718287958747/198997216397/93529.m3u8
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="Premiere 5 SD" group-title="PREMIERE",Premiere 5 SD
+http://190.102.43.58:80/718287958747/198997216397/93541.m3u8
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="Premiere 6 FHD" group-title="PREMIERE",Premiere 6 FHD
+http://190.102.43.58:80/718287958747/198997216397/93532.m3u8
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 6 HD" group-title="PREMIERE",PREMIERE 6 HD
+http://190.102.43.58:80/718287958747/198997216397/93530.m3u8
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="Premiere 6 SD" group-title="PREMIERE",Premiere 6 SD
+http://190.102.43.58:80/718287958747/198997216397/93542.m3u8
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 7 FHD" group-title="PREMIERE",PREMIERE 7 FHD
+http://190.102.43.58:80/718287958747/198997216397/211453.m3u8
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="PREMIERE 7 HD" group-title="PREMIERE",PREMIERE 7 HD
+http://190.102.43.58:80/718287958747/198997216397/93531.m3u8
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-logo="https://acstatic.co/logos/canais/premiere.png" tvg-name="Premiere 7 SD" group-title="PREMIERE",Premiere 7 SD
+http://190.102.43.58:80/718287958747/198997216397/93544.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://www.acstatic.co/logos/canais/sportv.png" tvg-name="SPORTV 1 FHD" group-title="SPORTV",SPORTV 1 FHD
+http://190.102.43.58:80/718287958747/198997216397/99013.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://www.acstatic.co/logos/canais/sportv.png" tvg-name="SPORTV 1 HD" group-title="SPORTV",SPORTV 1 HD
+http://190.102.43.58:80/718287958747/198997216397/85645.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://www.acstatic.co/logos/canais/sportv.png" tvg-name="SporTV 1 SD" group-title="SPORTV",SporTV 1 SD
+http://190.102.43.58:80/718287958747/198997216397/99012.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://www.acstatic.co/logos/canais/sportv2.png" tvg-name="SPORTV 2 FHD" group-title="SPORTV",SPORTV 2 FHD
+http://190.102.43.58:80/718287958747/198997216397/85646.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://www.acstatic.co/logos/canais/sportv2.png" tvg-name="SPORTV 2 HD" group-title="SPORTV",SPORTV 2 HD
+http://190.102.43.58:80/718287958747/198997216397/85647.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://www.acstatic.co/logos/canais/sportv2.png" tvg-name="SporTV 2 SD" group-title="SPORTV",SporTV 2 SD
+http://190.102.43.58:80/718287958747/198997216397/85652.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://www.acstatic.co/logos/canais/sportv3.png" tvg-name="SPORTV 3 FHD" group-title="SPORTV",SPORTV 3 FHD
+http://190.102.43.58:80/718287958747/198997216397/85648.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://www.acstatic.co/logos/canais/sportv3.png" tvg-name="SPORTV 3 HD" group-title="SPORTV",SPORTV 3 HD
+http://190.102.43.58:80/718287958747/198997216397/85649.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://www.acstatic.co/logos/canais/sportv3.png" tvg-name="SporTV 3 SD" group-title="SPORTV",SporTV 3 SD
+http://190.102.43.58:80/718287958747/198997216397/85653.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" tvg-name="TELECINE ACTION FHD" group-title="TELECINE",TELECINE ACTION FHD
+http://190.102.43.58:80/718287958747/198997216397/93223.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" tvg-name="TELECINE ACTION HD" group-title="TELECINE",TELECINE ACTION HD
+http://190.102.43.58:80/718287958747/198997216397/93224.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" tvg-name="Telecine Action SD" group-title="TELECINE",Telecine Action SD
+http://190.102.43.58:80/718287958747/198997216397/177097.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" tvg-name="TELECINE CULT FHD" group-title="TELECINE",TELECINE CULT FHD
+http://190.102.43.58:80/718287958747/198997216397/93225.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" tvg-name="TELECINE CULT HD" group-title="TELECINE",TELECINE CULT HD
+http://190.102.43.58:80/718287958747/198997216397/93226.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" tvg-name="Telecine Cult SD" group-title="TELECINE",Telecine Cult SD
+http://190.102.43.58:80/718287958747/198997216397/177106.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" tvg-name="TELECINE FUN FHD" group-title="TELECINE",TELECINE FUN FHD
+http://190.102.43.58:80/718287958747/198997216397/93227.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" tvg-name="TELECINE FUN HD" group-title="TELECINE",TELECINE FUN HD
+http://190.102.43.58:80/718287958747/198997216397/93228.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" tvg-name="Telecine Fun SD" group-title="TELECINE",Telecine Fun SD
+http://190.102.43.58:80/718287958747/198997216397/177119.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" tvg-name="TELECINE PIPOCA FHD" group-title="TELECINE",TELECINE PIPOCA FHD
+http://190.102.43.58:80/718287958747/198997216397/93229.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" tvg-name="TELECINE PIPOCA HD" group-title="TELECINE",TELECINE PIPOCA HD
+http://190.102.43.58:80/718287958747/198997216397/93230.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" tvg-name="Telecine Pipoca SD" group-title="TELECINE",Telecine Pipoca SD
+http://190.102.43.58:80/718287958747/198997216397/177130.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" tvg-name="TELECINE PREMIUM FHD" group-title="TELECINE",TELECINE PREMIUM FHD
+http://190.102.43.58:80/718287958747/198997216397/93231.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" tvg-name="TELECINE PREMIUM HD" group-title="TELECINE",TELECINE PREMIUM HD
+http://190.102.43.58:80/718287958747/198997216397/93233.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" tvg-name="Telecine Premium SD" group-title="TELECINE",Telecine Premium SD
+http://190.102.43.58:80/718287958747/198997216397/177141.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" tvg-name="TELECINE TOUCH FHD" group-title="TELECINE",TELECINE TOUCH FHD
+http://190.102.43.58:80/718287958747/198997216397/93234.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" tvg-name="TELECINE TOUCH HD" group-title="TELECINE",TELECINE TOUCH HD
+http://190.102.43.58:80/718287958747/198997216397/93235.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" tvg-name="Telecine Touch SD" group-title="TELECINE",Telecine Touch SD
+http://190.102.43.58:80/718287958747/198997216397/177154.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB Acompanhe a casa 1 FHD" group-title="PPV | BBB 25",BBB Acompanhe a casa 1 FHD
+http://190.102.43.58:80/718287958747/198997216397/759950.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB Acompanhe a casa 1 HD" group-title="PPV | BBB 25",BBB Acompanhe a casa 1 HD
+http://190.102.43.58:80/718287958747/198997216397/759949.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB Acompanhe a casa 1 SD" group-title="PPV | BBB 25",BBB Acompanhe a casa 1 SD
+http://190.102.43.58:80/718287958747/198997216397/759951.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB Acompanhe a casa 2 SD" group-title="PPV | BBB 25",BBB Acompanhe a casa 2 SD
+http://190.102.43.58:80/718287958747/198997216397/759979.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB Acompanhe a casa 2 HD" group-title="PPV | BBB 25",BBB Acompanhe a casa 2 HD
+http://190.102.43.58:80/718287958747/198997216397/759952.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB Acompanhe a casa 2 FHD" group-title="PPV | BBB 25",BBB Acompanhe a casa 2 FHD
+http://190.102.43.58:80/718287958747/198997216397/759954.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB MOSAICO HD" group-title="PPV | BBB 25",BBB MOSAICO HD
+http://190.102.43.58:80/718287958747/198997216397/759966.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB SALA SD" group-title="PPV | BBB 25",BBB SALA SD
+http://190.102.43.58:80/718287958747/198997216397/759967.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB SALA FHD" group-title="PPV | BBB 25",BBB SALA FHD
+http://190.102.43.58:80/718287958747/198997216397/759968.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB SALA HD" group-title="PPV | BBB 25",BBB SALA HD
+http://190.102.43.58:80/718287958747/198997216397/759969.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB QUARTO NORDESTE SD" group-title="PPV | BBB 25",BBB QUARTO NORDESTE SD
+http://190.102.43.58:80/718287958747/198997216397/759970.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB QUARTO NORDESTE FHD" group-title="PPV | BBB 25",BBB QUARTO NORDESTE FHD
+http://190.102.43.58:80/718287958747/198997216397/759971.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB QUARTO NORDESTE HD" group-title="PPV | BBB 25",BBB QUARTO NORDESTE HD
+http://190.102.43.58:80/718287958747/198997216397/759972.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB QUARTO FANTASTICO SD" group-title="PPV | BBB 25",BBB QUARTO FANTASTICO SD
+http://190.102.43.58:80/718287958747/198997216397/759973.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB QUARTO FANTASTICO FHD" group-title="PPV | BBB 25",BBB QUARTO FANTASTICO FHD
+http://190.102.43.58:80/718287958747/198997216397/759974.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB QUARTO FANTASTICO HD" group-title="PPV | BBB 25",BBB QUARTO FANTASTICO HD
+http://190.102.43.58:80/718287958747/198997216397/759975.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB QUARTO ANOS 50 SD" group-title="PPV | BBB 25",BBB QUARTO ANOS 50 SD
+http://190.102.43.58:80/718287958747/198997216397/759976.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB QUARTO ANOS 50 FHD" group-title="PPV | BBB 25",BBB QUARTO ANOS 50 FHD
+http://190.102.43.58:80/718287958747/198997216397/759977.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB QUARTO ANOS 50 HD" group-title="PPV | BBB 25",BBB QUARTO ANOS 50 HD
+http://190.102.43.58:80/718287958747/198997216397/759978.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB ACADEMIA FHD" group-title="PPV | BBB 25",BBB ACADEMIA FHD
+http://190.102.43.58:80/718287958747/198997216397/759956.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB ACADEMIA HD" group-title="PPV | BBB 25",BBB ACADEMIA HD
+http://190.102.43.58:80/718287958747/198997216397/759955.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB ACADEMIA SD" group-title="PPV | BBB 25",BBB ACADEMIA SD
+http://190.102.43.58:80/718287958747/198997216397/759957.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB CAMERA PANTENE FHD" group-title="PPV | BBB 25",BBB CAMERA PANTENE FHD
+http://190.102.43.58:80/718287958747/198997216397/759959.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB CAMERA PANTENE HD" group-title="PPV | BBB 25",BBB CAMERA PANTENE HD
+http://190.102.43.58:80/718287958747/198997216397/759958.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB CAMERA PANTENE SD" group-title="PPV | BBB 25",BBB CAMERA PANTENE SD
+http://190.102.43.58:80/718287958747/198997216397/759953.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB COZINHA 2 FHD" group-title="PPV | BBB 25",BBB COZINHA 2 FHD
+http://190.102.43.58:80/718287958747/198997216397/759961.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB COZINHA 2 HD" group-title="PPV | BBB 25",BBB COZINHA 2 HD
+http://190.102.43.58:80/718287958747/198997216397/759960.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB COZINHA 2 SD" group-title="PPV | BBB 25",BBB COZINHA 2 SD
+http://190.102.43.58:80/718287958747/198997216397/759962.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB COZINHA FHD" group-title="PPV | BBB 25",BBB COZINHA FHD
+http://190.102.43.58:80/718287958747/198997216397/759964.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB COZINHA HD" group-title="PPV | BBB 25",BBB COZINHA HD
+http://190.102.43.58:80/718287958747/198997216397/759963.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://correioriograndense.com.br/wp-content/uploads/2024/12/1280-720-A-46.png" tvg-name="BBB COZINHA SD" group-title="PPV | BBB 25",BBB COZINHA SD
+http://190.102.43.58:80/718287958747/198997216397/759965.m3u8
