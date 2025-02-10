@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/a&e.png" tvg-name="A&E FHD" group-title="CANAIS • FILMES E SERIES",A&E FHD
-http://todexs.com:80/Ines7865/8765478/1352432
+http://todexs.com:80/live/Ines7865/8765478/1352432.ts
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
