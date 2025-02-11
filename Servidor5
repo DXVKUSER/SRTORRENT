@@ -8,8 +8,8 @@
 #KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="tv.atalaia.br" tvg-logo="https://prostore.app/logos/record.png" tvg-name="RECORD TV ATALAIA HD" group-title="CANAIS | RECORD",RECORD TV ATALAIA HD
-http://go7l99a.com:80/live/Cleones01/103M205A/469815.ts
+#EXTINF:-1 tvg-id="tv.atalaia.br" tvg-logo="https://prostore.app/logos/record.png" tvg-name="RECORD TV ATALAIA HD" group-title="CANAIS | RECORD",RECORD TV ATALAIA HD TS
+http://go7l99a.com:80/Cleones01/103M205A/469815.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
