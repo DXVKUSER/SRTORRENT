@@ -1,5 +1,23 @@
 #EXTM3U
 #KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="ACOMPANHE A CASA" group-title="CANAIS | BIG BROTHER BRASIL 2025",ACOMPANHE A CASA
+http://38.101.149.2:80/live/Ines7865/8765478/1352826.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="ACOMPANHE A CASA 2" group-title="CANAIS | BIG BROTHER BRASIL 2025",ACOMPANHE A CASA 2
+http://go7l99a.com:80/live/dso071298/Land3328/680034.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="MOSAICO BBB" group-title="CANAIS | BIG BROTHER BRASIL 2025",MOSAICO BBB
+http://7779rt.top:80/live/samara11/11samara/8009.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
