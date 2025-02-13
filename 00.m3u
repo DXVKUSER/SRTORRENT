@@ -3310,7 +3310,7 @@ http://todexs.com:80/Ines7865/8765478/1352313.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:http--reconnect=true
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BBB 01" group-title="CANAIS • BBB",BBB 01
-http://todexs.com:80/Ines7865/8765478/1352314.m3u8
+http://64.31.62.50/auth/1352314.m3u8?token=ecmksp69coLXY2juhImoABaWeW49njZBpEL_AxFtX8BWVcO5FYE42lPZEhNSOuQ53FSWyYDas_-qtICRVumfbfsVhMJbpU1uIrFJTNQirHWyt9u2X_yzTgycGobPRu0HVhtloAPqfP8P6flBAIp9r_8s0usGhcANl0cD6tlA8ahhcQoyuX5qC-fvmtjamOps-wSZCSDklcAYvTi8bDIM_GdOXY1-WRErARmkA4LLWORj4nlfpwQncpKegLIzpL09a4f6LH-cHL3K4jd96I6xindBpWFudjjzsrkFzTpHJ4aw0-99a3kezR_zLnEYWFSqZ4Q4elPAS3XI1N2Hdt6tzRbLJhNoMeJjg9_fJFnLnCbFNp6FjWp3gVWktLVW7kKCdfl5ezs0kpQzg-_vnh9ToWi_WGTXqb-7T0vO26mHq8V2G01XxNdNfuKG8RLoN4lWs5lyN7ryKcTxsi0rxxVTFdlLAsHvoal842OaP1wf1nhnB2cilgvJi89qp6H1oAoWlGo8ARukJW5WP0fvH7j-4eFI7DN5ItXrvlZsOqRYc33cEy-QEUszCij_v09eg_O-pvHNIMVzaVR8cO7UyP7tSYwgc6v-kyc0qorBFpPtXC73pK_ZXrZDp6Gd_PmKAKUINJn9Kab1F7YoD4gg_sVJkQ
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
