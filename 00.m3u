@@ -2,30 +2,60 @@
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
+#KODIPROP:inputstream.ffmpegdirect.is_catchup_stream=catchup
+#KODIPROP:inputstream.ffmpegdirect.catchup_granularity=60
+#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
+#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=url
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_start_time=1
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_offset=2
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.default_url=url
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/a&e.png" tvg-name="A&E FHD" group-title="CANAIS • FILMES E SERIES",A&E FHD
 http://todexs.com:80/live/Ines7865/8765478/1352432.ts
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
+#KODIPROP:inputstream.ffmpegdirect.is_catchup_stream=catchup
+#KODIPROP:inputstream.ffmpegdirect.catchup_granularity=60
+#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
+#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=url
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_start_time=1
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_offset=2
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:http--reconnect=true
+#KODIPROP:inputstream.ffmpegdirect.default_url=url
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/a&e.png" tvg-name="A&E HD" group-title="CANAIS • FILMES E SERIES",HBO 2 HD
-http://190.102.43.58:80/live/718287958747/198997216397/92425.m3u8
+http://190.102.43.58:80/live/718287958747/198997216397/92425.ts
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
+#KODIPROP:inputstream.ffmpegdirect.is_catchup_stream=catchup
+#KODIPROP:inputstream.ffmpegdirect.catchup_granularity=60
+#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
+#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=url
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_start_time=1
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_offset=2
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:http--reconnect=true
+#KODIPROP:inputstream.ffmpegdirect.default_url=url
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/a&e.png" tvg-name="A&E HD²" group-title="CANAIS • FILMES E SERIES",A&E HD²
-http://todexs.com:80/Ines7865/8765478/1352434.m3u8
+http://todexs.com:80/live/Ines7865/8765478/1352434.ts
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
