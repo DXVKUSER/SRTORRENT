@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://danfs.xyz:80/xmltv.php?username=2222222222&password=2222222222"
+#EXTM3U
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
