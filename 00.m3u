@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://club.potv.bz:80/xmltv.php?username=paulocasabela43&password=91ZaaA"
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
