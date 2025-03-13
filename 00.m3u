@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://cdn69.site:80/xmltv.php?username=6819303566&password=3405190565"
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
