@@ -1,28 +1,28 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",A&E FHD
-http://daxoi.online:80/live/34712771/6934712771/2474327.m3u8&quality=worst&m3u8mod=true&httpproxy=154.16.146.45:80
+http://daxoi.online:80/live/34712771/6934712771/2474327.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD [H265]" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",A&E FHD [H265]
-http://onecdz.xyz:80/live/161153555/841892644/113147.m3u8
+http://onecdz.xyz:80/live/161153555/841892644/113147.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",A&E HD
 http://onecdz.xyz:80/live/161153555/841892644/17575.m3u8?quality=worst&m3u8mod=true&httpproxy=154.16.146.45:80
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",A&E SD
-http://onecdz.xyz:80/live/161153555/841892644/113098.m3u8
+http://onecdz.xyz:80/live/161153555/841892644/113098.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Canais | Filmes e Séries",AMC FHD
 http://onecdz.xyz:80/live/161153555/841892644/113102.m3u8&quality=worst&m3u8mod=true&httpproxy=80.218.229.41:80
-http://onecdz.xyz:80/live/161153555/841892644/113102.m3u8
+http://onecdz.xyz:80/live/161153555/841892644/113102.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD [H265]" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://onecdz.xyz:80/live/161153555/841892644/113146.m3u8
+http://onecdz.xyz:80/live/161153555/841892644/113146.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Canais | Filmes e Séries",AMC HD
-http://onecdz.xyz:80/live/161153555/841892644/17987.m3u8
+http://onecdz.xyz:80/live/161153555/841892644/17987.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://imgur.com/HDyv8Lj.jpeg" group-title="Canais | Filmes e Séries",AMC SD
-http://onecdz.xyz:80/live/161153555/841892644/113101.m3u8
+http://onecdz.xyz:80/live/161153555/841892644/113101.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Canais | Documentarios",Animal Planet FHD
-http://onecdz.xyz:80/live/161153555/841892644/17580.m3u8
+http://onecdz.xyz:80/live/161153555/841892644/17580.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Canais | Documentarios",Animal Planet FHD [H265]
-http://onecdz.xyz:80/live/161153555/841892644/113177.m3u8
+http://onecdz.xyz:80/live/161153555/841892644/113177.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Canais | Documentarios",Animal Planet HD
-http://onecdz.xyz:80/live/161153555/841892644/408361.m3u8
+http://onecdz.xyz:80/live/161153555/841892644/408361.m3u8?quality=worst&m3u8mod=true
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="Canais | Documentarios",Animal Planet SD
 http://onecdz.xyz:80/live/161153555/841892644/17584.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 FHD" tvg-logo="https://imgur.com/runVS7g.jpeg" group-title="Canais | Variedades",Arte 1 FHD
