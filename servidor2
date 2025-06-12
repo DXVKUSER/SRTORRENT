@@ -14,6 +14,8 @@ http://dnscine.top:80/live/464759345/154259137/214.ts
 http://dnsb.io:80/25101989/25101989/108287.ts
 #EXTINF:-1 tvg-id="" tvg-name="TESTE TS" tvg-logo="https://prombuxs.com/genial/24hs-desenhos/3_palavrinhas.png" group-title="TESTE TS",TESTE TS 6
 http://dnsb.io:80/live/25101989/25101989/108287.ts
+#EXTINF:-1 tvg-id="" tvg-name="TESTE TS" tvg-logo="https://prombuxs.com/genial/24hs-desenhos/3_palavrinhas.png" group-title="TESTE TS",TESTE HLS/TS TESTER HLS
+plugin://script.hls.tester/?action=play&url=http://getxc.top:80/live/9876543/f9876543b/359.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: 3 Palavrinhas" tvg-logo="https://prombuxs.com/genial/24hs-desenhos/3_palavrinhas.png" group-title="24hs x Desenhos",24Hs: 3 Palavrinhas
 http://lc00-gru.com:80/live/LeonardoGomes/9300g1621/143936.ts
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: A Casa do Mickey Mouse" tvg-logo="https://prombuxs.com/genial/24hs-desenhos/a_casa_do_mickey_mouse.png" group-title="24hs x Desenhos",24Hs: A Casa do Mickey Mouse
