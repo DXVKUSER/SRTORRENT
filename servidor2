@@ -6,6 +6,8 @@ http://ap4x.online:80/live/gelson1234/gelson1234/2473989.m3u8
 http://onecdz.xyz:80/844876939/805772826/17600
 #EXTINF:-1 tvg-id="" tvg-name="TESTE TS" tvg-logo="https://prombuxs.com/genial/24hs-desenhos/3_palavrinhas.png" group-title="TESTE TS",TESTE TS 2
 http://onecdz.xyz:80/live/844876939/805772826/17600.ts
+#EXTINF:-1 tvg-id="" tvg-name="TESTE TS" tvg-logo="https://prombuxs.com/genial/24hs-desenhos/3_palavrinhas.png" group-title="TESTE TS",TESTE TS 3
+http://ap4x.online:80/live/gelson1234/gelson1234/2473989.ts
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: 3 Palavrinhas" tvg-logo="https://prombuxs.com/genial/24hs-desenhos/3_palavrinhas.png" group-title="24hs x Desenhos",24Hs: 3 Palavrinhas
 http://lc00-gru.com:80/live/LeonardoGomes/9300g1621/143936.m3u8|User-Agent=VLC/4.3.4
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: A Casa do Mickey Mouse" tvg-logo="https://prombuxs.com/genial/24hs-desenhos/a_casa_do_mickey_mouse.png" group-title="24hs x Desenhos",24Hs: A Casa do Mickey Mouse
