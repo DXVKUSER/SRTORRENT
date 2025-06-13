@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="24H:BEYBLADE" group-title="✨CANAIS 24H TESTE",24H:BEYBLADE
 plugin://plugin.iptv.localproxy/?action=play&url=http://veloz.tvbrlive.com:80/live/Viviane123/Viviane123/4895283.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="24H:BEYBLADE" group-title="✨CANAIS 24H TESTE",24H:BEYBLADE 2
-plugin://plugin.iptv.localproxy/?action=play&url=http://club.potv.bz:80/live/paulocasabela43/91ZaaA/131163.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="24H:DEATH NOTE" group-title="✨CANAIS 24H TESTE",24H:DEATH NOTE
 plugin://plugin.iptv.localproxy/?action=play&url=http://veloz.tvbrlive.com:80/Viviane123/Viviane123/4895282
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="24H:HUNTER X HUNTER" group-title="✨CANAIS 24H TESTE",24H:HUNTER X HUNTER
-plugin://plugin.iptv.localproxy/?action=play&url=http://veloz.tvbrlive.com:80/Viviane123/Viviane123/4895299
+plugin://plugin.iptv.localproxy/?action=play&url=http://veloz.tvbrlive.com:80/live/Viviane123/Viviane123/4895299.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="24H:Naruto Shippuden" group-title="✨CANAIS 24H TESTE",24H:Naruto Shippuden
 plugin://plugin.iptv.localproxy/?action=play&url=http://veloz.tvbrlive.com:80/Viviane123/Viviane123/4895284
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="24H:ONE PIECE" group-title="✨CANAIS 24H TESTE",24H:ONE PIECE
