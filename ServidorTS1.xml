@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-name="+ FAMILIA HD" tvg-logo="" group-title="Canais | Variedades",+ FAMILIA HD
-plugin://plugin.video.myiptvproxy/?action=play&url=http://dnscine.top:80/live/755374263/191384417/231.ts
+
 #EXTINF:-1 tvg-id="A.Guarda.do.Leao.24H" tvg-name="A Guarda do Leão 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQ0zsV6VxfPlPS9IKOYJ6y9h84XD1uCAkWd6GLjOfQKsg.png" group-title="24 Horas | Infantil",A Guarda do Leão 24H
 plugin://plugin.video.myiptvproxy/?action=play&url=http://dnscine.top:80/live/755374263/191384417/202282.ts
 #EXTINF:-1 tvg-id="A.Turma.do.Pateta.24H" tvg-name="A Turma do Pateta 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSSvIH8SemT4gctEDeJ_b30Kk95vifucOJ9zBwNcIeHVA.png" group-title="24 Horas | Infantil",A Turma do Pateta 24H
