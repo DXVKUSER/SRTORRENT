@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
 #EXTINF:-1 tvg-id="" tvg-name="89 FM Rádio Rock" tvg-logo="http://aguacomgas.shop:80/images/25ef72b2e6868949c80bc9fa8e9f2292.jpg" group-title="♦️Canais | Rádio",89 FM Rádio Rock
 plugin://plugin.video.myiptvproxy/?action=play&url=http://aguacomgas.shop:80/live/398629853/616383833/223486.ts
 #EXTINF:-1 tvg-id="" tvg-name="94 Live" tvg-logo="http://aguacomgas.shop:80/images/0025faa0c6100cf408f265e8efff2bba.png" group-title="♦️Canais | Rádio",94 Live
