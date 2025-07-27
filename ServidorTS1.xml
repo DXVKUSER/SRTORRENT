@@ -1,7 +1,4 @@
 #EXTM3U
-
-
-plugin://plugin.video.myiptvproxy/?action=play&url=http://aguacomgas.shop:80/live/398629853/616383833/223501.ts
 #EXTINF:-1 tvg-id="AE.br" tvg-name="A&E 4K" tvg-logo="https://logos.imperioapps.xyz/A&E.png" group-title="Canais | 4K",A&E 4K
 plugin://plugin.video.myiptvproxy/?action=play&url=http://aguacomgas.shop:80/live/398629853/616383833/150813.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://logos.imperioapps.xyz/A&E.png" group-title="Canais | Filmes e Séries",A&E FHD
