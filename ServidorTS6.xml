@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://newoneblack.site:80/xmltv.php?username=7gpxcdr&password=17sqmr1"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="" tvg-name="+NOVELAS FHD" tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcdn.one.accedo.tv%2Ffiles%2F67ebe560a6f5470017708753&w=384&q=75" group-title="⭐ SBT+",+NOVELAS FHD
 plugin://plugin.video.myiptvproxy/?action=play&url=http://newoneblack.site:80/live/7gpxcdr/17sqmr1/235989.ts
