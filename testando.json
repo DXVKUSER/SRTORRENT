@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "ENTRAR",
+    "categoria": "Entrar",
     "icon": "https://i.imgur.com/SJITntP.png",
     "fanart": "https://i.imgur.com/gaaKYUP.jpeg",
     "servidores": [
@@ -19,24 +19,24 @@
         "icon": "https://i.imgur.com/SJITntP.png"
       },
       {
-        "nome": "Servidor 3",
-        "dns": "http://iptvbrasil3.net:8080",
-        "username": "userbr3",
-        "password": "passbr3",
+        "nome": "Portugal 3",
+        "dns": "http://iptvportugal3.com:8080",
+        "username": "user3",
+        "password": "pass3",
         "icon": "https://i.imgur.com/SJITntP.png"
       },
       {
-        "nome": "Servidor 4",
-        "dns": "http://iptvbrasil4.tv:8000",
-        "username": "userbr4",
-        "password": "passbr4",
+        "nome": "Portugal 4",
+        "dns": "http://iptvportugal4.net:8000",
+        "username": "user4",
+        "password": "pass4",
         "icon": "https://i.imgur.com/SJITntP.png"
       },
       {
-        "nome": "Servidor 5",
-        "dns": "http://iptvbrasil5.com:8080",
-        "username": "userbr5",
-        "password": "passbr5",
+        "nome": "Portugal 5",
+        "dns": "http://iptvportugal5.com:8080",
+        "username": "user5",
+        "password": "pass5",
         "icon": "https://i.imgur.com/SJITntP.png"
       }
     ]
