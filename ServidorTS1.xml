@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa - ACOMPANHE O CENTRO DE TREINAMENTO" tvg-logo="https://uploads.tracklist.com.br/2024/07/estrela-da-cas.jpg" group-title="Reality: Estrela da Casa",Estrela da Casa - ACOMPANHE O CENTRO DE TREINAMENTO
-plugin://plugin.video.myiptvproxy/?action=play&url=http://zrvza.top:80/live/Alessandra882/Ale00283/330252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa - ACOMPANHE O CENTRO DE TREINAMENTO" tvg-logo="https://uploads.tracklist.com.br/2024/07/estrela-da-cas.jpg" group-title="TESTE TS",TESTE TS
+plugin://plugin.video.myiptvproxy/?action=play&url=http://192.168.18.5:8000/stream/4231910.ts
 #EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa - DECK AREA TREINO" tvg-logo="https://uploads.tracklist.com.br/2024/07/estrela-da-cas.jpg" group-title="Reality: Estrela da Casa",Estrela da Casa - DECK AREA TREINO
 plugin://plugin.video.myiptvproxy/?action=play&url=http://zrvza.top:80/live/Alessandra882/Ale00283/330254.ts
 #EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa - CENTRO TREINAMENTO" tvg-logo="https://uploads.tracklist.com.br/2024/07/estrela-da-cas.jpg" group-title="Reality: Estrela da Casa",Estrela da Casa - CENTRO TREINAMENTO
