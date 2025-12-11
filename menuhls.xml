@@ -58,11 +58,11 @@
 </channel>
 
   <channel>
-<name>[B][COLOR white]PROXY HLS 2[/COLOR][COLOR yellow][/COLOR][/B]</name>
+<name>[B][COLOR white]PROXY HLS 2 0[/COLOR][COLOR yellow][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/JwRbG6n.jpeg</thumbnail>
 <fanart>https://i.imgur.com/JwRbG6n.jpeg</fanart>
 <info>[COLOR white]SERVIDOR 6[/COLOR]</info>
-<externallink>http://192.168.18.13:8010/all_channels.m3u</externallink>
+<externallink>http://0.0.0.0:8010/all_channels.m3u</externallink>
 </channel>
 
 
