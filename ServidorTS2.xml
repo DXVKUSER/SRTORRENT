@@ -19,8 +19,8 @@ plugin://plugin.video.myiptvproxy/?action=play&url=http://gjrctv.com:8080/live/M
 plugin://plugin.video.myiptvproxy/?action=play&url=http://gjrctv.com:8080/live/Maik2025tvnova/08Fevereiro2024/944758.ts
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV FHD
 plugin://plugin.video.myiptvproxy/?action=play&url=http://gjrctv.com:8080/live/Maik2025tvnova/08Fevereiro2024/2035.ts
-#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV HD
-plugin://plugin.video.myiptvproxy/?action=play&url=http://gjrctv.com:8080/live/Maik2025tvnova/08Fevereiro2024/2038.ts
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV HD TESTE M3U8
+plugin://plugin.video.myiptvproxy/?action=play&url=http://gjrctv.com:8080/live/Maik2025tvnova/08Fevereiro2024/2038.m3u8
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV
 plugin://plugin.video.myiptvproxy/?action=play&url=http://gjrctv.com:8080/live/Maik2025tvnova/08Fevereiro2024/2218.ts
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV 4k" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV 4k
