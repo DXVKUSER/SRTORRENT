@@ -54,7 +54,7 @@
 <thumbnail>https://i.imgur.com/JwRbG6n.jpeg</thumbnail>
 <fanart>https://i.imgur.com/JwRbG6n.jpeg</fanart>
 <info>[COLOR white]SERVIDOR 6[/COLOR]</info>
-<externallink>http://192.168.18.5:8010/all_channels.m3u</externallink>
+<externallink>http://192.168.18.5:8010/playlist.m3u</externallink>
 </channel>
 
   <channel>
