@@ -1,0 +1,51 @@
+[
+  {
+    "categoria": "[COLORwhite]ENTRAR[/COLOR]",
+    "icon": "https://i.imgur.com/FBK5qFX.png",
+    "fanart": "https://i.imgur.com/KMlkWXm.jpeg",
+    "servidores": [
+      {
+        "nome": "[COLORwhite]Servidor 1[/COLOR]",
+        "dns": "http://nitrohd.xyz:80",
+        "username": "283846588",
+        "password": "23432554",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 2[/COLOR]",
+        "dns": "http://topcdn.fun:80",
+        "username": "34118113",
+        "password": "48ug9bj9Cv3",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 3[/COLOR]",
+        "dns": "http://turbocdn.sbs",
+        "username": "9709709",
+        "password": "2474535",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 4[/COLOR]",
+        "dns": "http://hoststrsrv.com:80",
+        "username": "adalberto",
+        "password": "123456",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 5[/COLOR]",
+        "dns": "http://ferramenta.top:80",
+        "username": "53028888",
+        "password": "05518582",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 6[/COLOR]",
+        "dns": "http://axrvix.top:80",
+        "username": "bruna9481x",
+        "password": "brunassiptv6435",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      }
+    ]
+  }
+]
