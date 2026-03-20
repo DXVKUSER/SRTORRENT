@@ -1,0 +1,51 @@
+[
+  {
+    "categoria": "[COLORwhite]ENTRAR[/COLOR]",
+    "icon": "https://i.imgur.com/twyUxGe.jpeg",
+    "fanart": "https://i.imgur.com/FBK5qFX.png",
+    "servidores": [
+      {
+        "nome": "[COLORwhite]Servidor 1[/COLOR]",
+        "dns": "http://ezwxqwbr.xyz:80",
+        "username": "701017",
+        "password": "a58WKN",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 2[/COLOR]",
+        "dns": "http://89.187.173.194:80",
+        "username": "hswoq9887",
+        "password": "60z89703",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 3[/COLOR]",
+        "dns": "http://89.187.173.194:80",
+        "username": "Ameliakyuban",
+        "password": "am1978",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 4[/COLOR]",
+        "dns": "hhttp://ezwxqwbr.xyz:80",
+        "username": "907646",
+        "password": "G2jc9D",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 5[/COLOR]",
+        "dns": "http://89.187.173.194:80",
+        "username": "71165175",
+        "password": "71165175arx",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 6[/COLOR]",
+        "dns": "http://cavalo.cc:80",
+        "username": "779787",
+        "password": "st89Xt",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      }
+    ]
+  }
+]
