@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BRASILIENSE HD¹" tvg-logo="http://7logos.top/logos/campeonatobrasiliensehd.png" group-title="TESTE1",TESTE 1
-plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kabra22.com/live/adilsoncarlos39/Ppan095722/83186.ts
+plugin://plugin.video.nexuscoreproxy/?action=play&url=http://kabra22.com:80/live/adilsoncarlos39/Ppan095722/83186.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CAPIXABA HD¹" tvg-logo="http://7logos.top/logos/campeonatocapixabahd.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CAPIXABA HD¹
 plugin://plugin.video.nexuscoreproxy/?action=play&url=http://7voahoje.top:8080/live/muniqueiribeiibpt1/41a7nyvk/327184.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3 HD²" tvg-logo="http://7logos.top/logos/campeonatocatarinensehd.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CATARINENSE 3 HD²
