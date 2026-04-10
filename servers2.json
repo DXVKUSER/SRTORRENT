@@ -6,7 +6,7 @@
     "servidores": [
       {
         "nome": "[COLORwhite]Servidor 1[/COLOR]",
-        "dns": "http://federalgovbr.org:80",
+        "dns": "http://govfederal.org:80",
         "username": "26684996",
         "password": "2784532",
         "icon": "https://i.imgur.com/FBK5qFX.png"
