@@ -1,50 +1,50 @@
 [
   {
     "categoria": "[COLORdarkturquoise]ENTRAR[/COLOR]",
-    "icon": "https://i.imgur.com/xLrejF6.jpeg",
-    "fanart": "https://i.imgur.com/HeHJZEA.jpeg",
+    "icon": "https://i.imgur.com/7Y2o0cs.png",
+    "fanart": "https://i.imgur.com/7Y2o0cs.png",
     "servidores": [
       {
         "nome": "[COLORdarkturquoise]Servidor 1[/COLOR] [COLORlime]ON[/COLOR]",
         "dns": "http://dnsc1.xyz:80",
         "username": "juliomendes",
         "password": "eebs2wefqb",
-        "icon": "https://i.imgur.com/xLrejF6.jpeg"
+        "icon": "https://i.imgur.com/7Y2o0cs.png"
       },
       {
         "nome": "[COLORdarkturquoise]Servidor 2[/COLOR] [COLORlime]ON[/COLOR]",
         "dns": "http://dnsc1.xyz:80",
         "username": "amcp152482432",
         "password": "102031amcd",
-        "icon": "https://i.imgur.com/xLrejF6.jpeg"
+        "icon": "https://i.imgur.com/7Y2o0cs.png"
       },
       {
         "nome": "[COLORdarkturquoise]Servidor 3[/COLOR] [COLORlime]ON[/COLOR]",
         "dns": "http://krkrkrkkrmewjnenejnee.com:80",
         "username": "emerson8687",
         "password": "86878687em",
-        "icon": "https://i.imgur.com/xLrejF6.jpeg"
+        "icon": "https://i.imgur.com/7Y2o0cs.png"
       },
       {
         "nome": "[COLORdarkturquoise]Servidor 4[/COLOR] [COLORlime]ON[/COLOR]",
         "dns": "http://playerbit.playerpe.com.br:80",
         "username": "75983037247",
         "password": "ise6pr6u0ff",
-        "icon": "https://i.imgur.com/xLrejF6.jpeg"
+        "icon": "https://i.imgur.com/7Y2o0cs.png"
       },
       {
         "nome": "[COLORdarkturquoise]Servidor 5[/COLOR] [COLORlime]ON[/COLOR]",
         "dns": "http://thurman.top:80",
         "username": "961610899",
         "password": "214648468",
-        "icon": "https://i.imgur.com/xLrejF6.jpeg"
+        "icon": "https://i.imgur.com/7Y2o0cs.png"
       },
       {
         "nome": "[COLORdarkturquoise]Servidor 6[/COLOR] [COLORlime]ON[/COLOR]",
         "dns": "http://topdnstop.lat:80",
         "username": "72984463",
         "password": "42823855",
-        "icon": "https://i.imgur.com/xLrejF6.jpeg"
+        "icon": "https://i.imgur.com/7Y2o0cs.png"
       }
     ]
   }
