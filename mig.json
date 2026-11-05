@@ -1,5 +1,51 @@
-{
-  "server": "http://newfusion.fun:80",
-  "username": "277700",
-  "password": "10203040"
-}
+[
+  {
+    "categoria": "[COLORpink]ENTRAR[/COLOR]",
+    "icon": "https://i.imgur.com/XQBvSex.gif",
+    "fanart": "https://i.imgur.com/twyUxGe.jpeg",
+    "servidores": [
+      {
+        "nome": "[COLORpink]Servidor 1[/COLOR] [COLORlime]ON[/COLOR]",
+        "dns": "http://uyz5ran.com:80",
+        "username": "alexandria400",
+        "password": "1237968Xx",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORpink]Servidor 2[/COLOR] [COLORlime]ON[/COLOR]",
+        "dns": "http://152.233.23.180:80",
+        "username": "17991423269",
+        "password": "rwlzmwhlmg",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 3[/COLOR] [COLORlime]ON[/COLOR]",
+        "dns": "http://152.233.23.180:80",
+        "username": "85986001234",
+        "password": "ih8cxiaje2",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORpink]Servidor 4[/COLOR] [COLORlime]ON[/COLOR]",
+        "dns": "http://uyz5ran.com:80",
+        "username": "tkKZNngCPh",
+        "password": "6NEaz6gt4",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORpink]Servidor 5[/COLOR] [COLORlime]ON[/COLOR]",
+        "dns": "http://152.233.23.180:80",
+        "username": "12988860187",
+        "password": "rh80hewu72n",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      },
+      {
+        "nome": "[COLORpink]Servidor 6[/COLOR] [COLORlime]ON[/COLOR]",
+        "dns": "http://152.233.23.180:80",
+        "username": "11968553254",
+        "password": "iknjruhch4",
+        "icon": "https://i.imgur.com/twyUxGe.jpeg"
+      }
+    ]
+  }
+]
